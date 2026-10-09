@@ -1,0 +1,389 @@
+gene_id,go_id,go_term
+AT1G01480,GO:0009414,response to water deprivation
+AT1G01560,GO:0007165,signal transduction
+AT1G01560,GO:0009737,response to abscisic acid
+AT1G02920,GO:0009407,toxin catabolic process
+AT1G02920,GO:0006749,glutathione metabolic process
+AT1G02930,GO:0009414,response to water deprivation
+AT1G02930,GO:0009407,toxin catabolic process
+AT1G02930,GO:0006749,glutathione metabolic process
+AT1G02930,GO:0006979,response to oxidative stress
+AT1G07000,GO:0009620,response to fungus
+AT1G07000,GO:1900150,regulation of defense response to fungus
+AT1G07000,GO:1900426,positive regulation of defense response to bacterium
+AT1G07000,GO:0009617,response to bacterium
+AT1G07000,GO:0002237,response to molecule of bacterial origin
+AT1G07000,GO:1902290,positive regulation of defense response to oomycetes
+AT1G07000,GO:0009414,response to water deprivation
+AT1G08450,GO:0009626,plant-type hypersensitive response
+AT1G08450,GO:0042742,defense response to bacterium
+AT1G11330,GO:0007165,signal transduction
+AT1G11330,GO:0006955,immune response
+AT1G14370,GO:1900426,positive regulation of defense response to bacterium
+AT1G15520,GO:0009753,response to jasmonic acid
+AT1G15520,GO:0002229,defense response to oomycetes
+AT1G15520,GO:0009414,response to water deprivation
+AT1G15520,GO:0009408,response to heat
+AT1G15520,GO:0009751,response to salicylic acid
+AT1G15520,GO:0009409,response to cold
+AT1G15520,GO:0010193,response to ozone
+AT1G15520,GO:0009737,response to abscisic acid
+AT1G19020,GO:0000302,response to reactive oxygen species
+AT1G19020,GO:0009611,response to wounding
+AT1G19020,GO:0009414,response to water deprivation
+AT1G19020,GO:0071456,cellular response to hypoxia
+AT1G19020,GO:0009617,response to bacterium
+AT1G19020,GO:0006979,response to oxidative stress
+AT1G19180,GO:0031347,regulation of defense response
+AT1G19180,GO:0009753,response to jasmonic acid
+AT1G19180,GO:0042742,defense response to bacterium
+AT1G19180,GO:0009611,response to wounding
+AT1G19180,GO:2000022,regulation of jasmonic acid mediated signaling pathway
+AT1G19250,GO:0009627,systemic acquired resistance
+AT1G19250,GO:0042742,defense response to bacterium
+AT1G19250,GO:0050832,defense response to fungus
+AT1G19250,GO:0009626,plant-type hypersensitive response
+AT1G19250,GO:0071456,cellular response to hypoxia
+AT1G21250,GO:0009615,response to virus
+AT1G21250,GO:0050832,defense response to fungus
+AT1G21250,GO:0009751,response to salicylic acid
+AT1G24140,GO:0050832,defense response to fungus
+AT1G27730,GO:0009611,response to wounding
+AT1G27730,GO:0071456,cellular response to hypoxia
+AT1G27730,GO:0009651,response to salt stress
+AT1G27730,GO:0009414,response to water deprivation
+AT1G27730,GO:0006979,response to oxidative stress
+AT1G27730,GO:0009409,response to cold
+AT1G27730,GO:0009737,response to abscisic acid
+AT1G32350,GO:0010230,alternative respiration
+AT1G32940,GO:0009620,response to fungus
+AT1G43160,GO:0009737,response to abscisic acid
+AT1G43160,GO:0009651,response to salt stress
+AT1G43160,GO:0009753,response to jasmonic acid
+AT1G43160,GO:0009611,response to wounding
+AT1G43160,GO:0034605,cellular response to heat
+AT1G43160,GO:0006970,response to osmotic stress
+AT1G43160,GO:0009409,response to cold
+AT1G43160,GO:0009414,response to water deprivation
+AT1G43160,GO:0009751,response to salicylic acid
+AT1G45145,GO:0050832,defense response to fungus
+AT1G45145,GO:0006979,response to oxidative stress
+AT1G52890,GO:0009414,response to water deprivation
+AT1G57630,GO:0071456,cellular response to hypoxia
+AT1G57630,GO:0007165,signal transduction
+AT1G58340,GO:0009408,response to heat
+AT1G58340,GO:0009624,response to nematode
+AT1G58340,GO:0006970,response to osmotic stress
+AT1G58340,GO:0009737,response to abscisic acid
+AT1G61800,GO:0009624,response to nematode
+AT1G65690,GO:0006970,response to osmotic stress
+AT1G65690,GO:0009737,response to abscisic acid
+AT1G66880,GO:0071456,cellular response to hypoxia
+AT1G67970,GO:0034605,cellular response to heat
+AT1G72900,GO:0071456,cellular response to hypoxia
+AT1G72900,GO:0007165,signal transduction
+AT1G73260,GO:0009751,response to salicylic acid
+AT1G73260,GO:0042742,defense response to bacterium
+AT1G73260,GO:0009625,response to insect
+AT1G73260,GO:0009624,response to nematode
+AT1G73260,GO:0002237,response to molecule of bacterial origin
+AT1G73260,GO:0009611,response to wounding
+AT1G73805,GO:0042742,defense response to bacterium
+AT1G73805,GO:0009617,response to bacterium
+AT1G73805,GO:1900426,positive regulation of defense response to bacterium
+AT1G73805,GO:0010112,regulation of systemic acquired resistance
+AT1G73805,GO:0002229,defense response to oomycetes
+AT1G76930,GO:0009737,response to abscisic acid
+AT1G76930,GO:0009611,response to wounding
+AT1G76930,GO:0009751,response to salicylic acid
+AT1G76930,GO:0009753,response to jasmonic acid
+AT1G80840,GO:0050832,defense response to fungus
+AT1G80840,GO:0042742,defense response to bacterium
+AT1G80840,GO:0031347,regulation of defense response
+AT1G80840,GO:0009611,response to wounding
+AT1G80840,GO:0009751,response to salicylic acid
+AT1G80840,GO:0002237,response to molecule of bacterial origin
+AT2G13810,GO:0042742,defense response to bacterium
+AT2G13810,GO:0009627,systemic acquired resistance
+AT2G13810,GO:0010150,leaf senescence
+AT2G14560,GO:0009751,response to salicylic acid
+AT2G14560,GO:0050832,defense response to fungus
+AT2G14610,GO:0080136,priming of cellular response to stress
+AT2G14610,GO:0009414,response to water deprivation
+AT2G14610,GO:0009627,systemic acquired resistance
+AT2G18660,GO:0009627,systemic acquired resistance
+AT2G18660,GO:0010230,alternative respiration
+AT2G24850,GO:0009753,response to jasmonic acid
+AT2G24850,GO:0009611,response to wounding
+AT2G26440,GO:0009617,response to bacterium
+AT2G26560,GO:0071456,cellular response to hypoxia
+AT2G26560,GO:0009626,plant-type hypersensitive response
+AT2G28190,GO:0009651,response to salt stress
+AT2G28190,GO:0009416,response to light stimulus
+AT2G28190,GO:0006979,response to oxidative stress
+AT2G29120,GO:0009416,response to light stimulus
+AT2G29350,GO:0031347,regulation of defense response
+AT2G29460,GO:0010120,camalexin biosynthetic process
+AT2G29460,GO:0006749,glutathione metabolic process
+AT2G29460,GO:0009407,toxin catabolic process
+AT2G30250,GO:0009651,response to salt stress
+AT2G30250,GO:0009409,response to cold
+AT2G30250,GO:0070370,cellular heat acclimation
+AT2G30250,GO:0006970,response to osmotic stress
+AT2G30250,GO:0034605,cellular response to heat
+AT2G33080,GO:0009651,response to salt stress
+AT2G33080,GO:0007165,signal transduction
+AT2G37770,GO:0009409,response to cold
+AT2G37770,GO:0009414,response to water deprivation
+AT2G37770,GO:0009651,response to salt stress
+AT2G37870,GO:0009627,systemic acquired resistance
+AT2G38470,GO:0006970,response to osmotic stress
+AT2G38470,GO:0009409,response to cold
+AT2G38470,GO:0009627,systemic acquired resistance
+AT2G38470,GO:0034605,cellular response to heat
+AT2G38470,GO:0009414,response to water deprivation
+AT2G38470,GO:0010120,camalexin biosynthetic process
+AT2G38470,GO:0050832,defense response to fungus
+AT2G38470,GO:0009408,response to heat
+AT2G38470,GO:0042742,defense response to bacterium
+AT2G38470,GO:0070370,cellular heat acclimation
+AT2G38470,GO:0009651,response to salt stress
+AT2G39210,GO:0002239,response to oomycetes
+AT2G40750,GO:2000031,regulation of salicylic acid mediated signaling pathway
+AT2G40750,GO:2000070,regulation of response to water deprivation
+AT2G40750,GO:0042742,defense response to bacterium
+AT2G40750,GO:2000022,regulation of jasmonic acid mediated signaling pathway
+AT2G40750,GO:0006970,response to osmotic stress
+AT2G40750,GO:0050832,defense response to fungus
+AT2G40750,GO:0031347,regulation of defense response
+AT2G40750,GO:0000302,response to reactive oxygen species
+AT2G40750,GO:0009751,response to salicylic acid
+AT2G43570,GO:0009615,response to virus
+AT2G43570,GO:0009627,systemic acquired resistance
+AT2G43570,GO:0010150,leaf senescence
+AT2G45220,GO:0009620,response to fungus
+AT2G45220,GO:0009617,response to bacterium
+AT2G46270,GO:0009737,response to abscisic acid
+AT2G46400,GO:2000070,regulation of response to water deprivation
+AT2G46400,GO:0071456,cellular response to hypoxia
+AT2G46400,GO:0042742,defense response to bacterium
+AT2G46400,GO:2000022,regulation of jasmonic acid mediated signaling pathway
+AT2G46400,GO:0009617,response to bacterium
+AT2G46400,GO:0009751,response to salicylic acid
+AT2G47130,GO:0042742,defense response to bacterium
+AT3G01420,GO:0042742,defense response to bacterium
+AT3G01420,GO:0009737,response to abscisic acid
+AT3G01420,GO:0050832,defense response to fungus
+AT3G01420,GO:0009627,systemic acquired resistance
+AT3G01420,GO:0006979,response to oxidative stress
+AT3G01420,GO:0009751,response to salicylic acid
+AT3G11010,GO:0007165,signal transduction
+AT3G12580,GO:0009617,response to bacterium
+AT3G12580,GO:0009408,response to heat
+AT3G12580,GO:0009615,response to virus
+AT3G13380,GO:0009414,response to water deprivation
+AT3G13380,GO:0009416,response to light stimulus
+AT3G14050,GO:0009611,response to wounding
+AT3G14050,GO:0009737,response to abscisic acid
+AT3G22231,GO:1902290,positive regulation of defense response to oomycetes
+AT3G22231,GO:0009620,response to fungus
+AT3G22231,GO:0009617,response to bacterium
+AT3G22231,GO:0009737,response to abscisic acid
+AT3G22231,GO:1900150,regulation of defense response to fungus
+AT3G22600,GO:0002237,response to molecule of bacterial origin
+AT3G22600,GO:0050832,defense response to fungus
+AT3G22600,GO:0009624,response to nematode
+AT3G23120,GO:0007165,signal transduction
+AT3G24500,GO:0009408,response to heat
+AT3G24500,GO:0071456,cellular response to hypoxia
+AT3G24500,GO:0009737,response to abscisic acid
+AT3G24500,GO:0009414,response to water deprivation
+AT3G25010,GO:0010150,leaf senescence
+AT3G25010,GO:0007165,signal transduction
+AT3G25010,GO:0080136,priming of cellular response to stress
+AT3G26830,GO:0010120,camalexin biosynthetic process
+AT3G26830,GO:0009737,response to abscisic acid
+AT3G26830,GO:0010112,regulation of systemic acquired resistance
+AT3G26830,GO:0009414,response to water deprivation
+AT3G26830,GO:0009617,response to bacterium
+AT3G26830,GO:0050832,defense response to fungus
+AT3G26830,GO:0009625,response to insect
+AT3G28210,GO:0009737,response to abscisic acid
+AT3G44300,GO:0009617,response to bacterium
+AT3G48850,GO:0009651,response to salt stress
+AT3G49120,GO:0042742,defense response to bacterium
+AT3G49120,GO:0050832,defense response to fungus
+AT3G49120,GO:0006979,response to oxidative stress
+AT3G49120,GO:0009416,response to light stimulus
+AT3G50480,GO:0009753,response to jasmonic acid
+AT3G50480,GO:0009620,response to fungus
+AT3G50480,GO:0009751,response to salicylic acid
+AT3G50480,GO:0009617,response to bacterium
+AT3G50930,GO:0009626,plant-type hypersensitive response
+AT3G50930,GO:0009617,response to bacterium
+AT3G50930,GO:0002237,response to molecule of bacterial origin
+AT3G51440,GO:0009753,response to jasmonic acid
+AT3G51440,GO:0009620,response to fungus
+AT3G51440,GO:0009615,response to virus
+AT3G51440,GO:0009611,response to wounding
+AT3G51440,GO:0009751,response to salicylic acid
+AT3G51860,GO:0009624,response to nematode
+AT3G51860,GO:0080136,priming of cellular response to stress
+AT3G55970,GO:2000022,regulation of jasmonic acid mediated signaling pathway
+AT3G55970,GO:1900150,regulation of defense response to fungus
+AT3G56400,GO:0009617,response to bacterium
+AT3G56400,GO:0002229,defense response to oomycetes
+AT3G56400,GO:0071456,cellular response to hypoxia
+AT3G56400,GO:0010150,leaf senescence
+AT3G56400,GO:2000022,regulation of jasmonic acid mediated signaling pathway
+AT3G56400,GO:2000031,regulation of salicylic acid mediated signaling pathway
+AT3G56400,GO:0010120,camalexin biosynthetic process
+AT3G56400,GO:0006970,response to osmotic stress
+AT3G56400,GO:0009751,response to salicylic acid
+AT3G56400,GO:0050832,defense response to fungus
+AT3G56400,GO:2000070,regulation of response to water deprivation
+AT3G56400,GO:0009753,response to jasmonic acid
+AT3G56400,GO:0031347,regulation of defense response
+AT3G56400,GO:0009625,response to insect
+AT3G56400,GO:0042742,defense response to bacterium
+AT3G56400,GO:0000302,response to reactive oxygen species
+AT3G56400,GO:0009682,induced systemic resistance
+AT3G56710,GO:0042742,defense response to bacterium
+AT3G57260,GO:0009409,response to cold
+AT3G57260,GO:0009627,systemic acquired resistance
+AT3G60140,GO:0009651,response to salt stress
+AT4G02380,GO:0009625,response to insect
+AT4G02380,GO:0009416,response to light stimulus
+AT4G02380,GO:0009414,response to water deprivation
+AT4G02380,GO:0000302,response to reactive oxygen species
+AT4G02380,GO:0009737,response to abscisic acid
+AT4G02380,GO:0006979,response to oxidative stress
+AT4G02380,GO:0009409,response to cold
+AT4G02380,GO:0010150,leaf senescence
+AT4G04490,GO:0009737,response to abscisic acid
+AT4G04490,GO:0007165,signal transduction
+AT4G04490,GO:0006955,immune response
+AT4G04500,GO:0006955,immune response
+AT4G04500,GO:0007165,signal transduction
+AT4G05020,GO:0010230,alternative respiration
+AT4G10500,GO:0010150,leaf senescence
+AT4G10500,GO:0002229,defense response to oomycetes
+AT4G10500,GO:0009620,response to fungus
+AT4G10500,GO:0009751,response to salicylic acid
+AT4G10500,GO:0002239,response to oomycetes
+AT4G10500,GO:0009617,response to bacterium
+AT4G11890,GO:0006955,immune response
+AT4G11890,GO:0009414,response to water deprivation
+AT4G11890,GO:0002239,response to oomycetes
+AT4G11890,GO:0009651,response to salt stress
+AT4G11890,GO:0007165,signal transduction
+AT4G11890,GO:0009737,response to abscisic acid
+AT4G11890,GO:0009409,response to cold
+AT4G12470,GO:0009627,systemic acquired resistance
+AT4G12470,GO:0009682,induced systemic resistance
+AT4G12470,GO:0050832,defense response to fungus
+AT4G12480,GO:0009737,response to abscisic acid
+AT4G12480,GO:0050832,defense response to fungus
+AT4G12480,GO:0009682,induced systemic resistance
+AT4G12480,GO:0009651,response to salt stress
+AT4G12480,GO:0009409,response to cold
+AT4G14400,GO:1900426,positive regulation of defense response to bacterium
+AT4G14400,GO:1900150,regulation of defense response to fungus
+AT4G14400,GO:0042742,defense response to bacterium
+AT4G14400,GO:0009617,response to bacterium
+AT4G14400,GO:0009751,response to salicylic acid
+AT4G14400,GO:2000031,regulation of salicylic acid mediated signaling pathway
+AT4G14400,GO:0009416,response to light stimulus
+AT4G14400,GO:0009615,response to virus
+AT4G14400,GO:1902290,positive regulation of defense response to oomycetes
+AT4G21380,GO:0007165,signal transduction
+AT4G21380,GO:0006955,immune response
+AT4G23140,GO:0009626,plant-type hypersensitive response
+AT4G23140,GO:0042742,defense response to bacterium
+AT4G23140,GO:0000302,response to reactive oxygen species
+AT4G23140,GO:0007165,signal transduction
+AT4G26270,GO:0071456,cellular response to hypoxia
+AT4G37990,GO:0009626,plant-type hypersensitive response
+AT4G37990,GO:0009617,response to bacterium
+AT4G39030,GO:0042742,defense response to bacterium
+AT4G39030,GO:0009624,response to nematode
+AT4G39030,GO:0009751,response to salicylic acid
+AT5G02490,GO:0009408,response to heat
+AT5G02490,GO:0009617,response to bacterium
+AT5G02490,GO:0009615,response to virus
+AT5G03350,GO:0009627,systemic acquired resistance
+AT5G03350,GO:0009617,response to bacterium
+AT5G05600,GO:2000022,regulation of jasmonic acid mediated signaling pathway
+AT5G05600,GO:1900150,regulation of defense response to fungus
+AT5G06320,GO:0071456,cellular response to hypoxia
+AT5G06320,GO:0009617,response to bacterium
+AT5G06320,GO:0042742,defense response to bacterium
+AT5G06320,GO:0009751,response to salicylic acid
+AT5G06320,GO:0009611,response to wounding
+AT5G06760,GO:0009414,response to water deprivation
+AT5G06760,GO:0006970,response to osmotic stress
+AT5G06760,GO:0009409,response to cold
+AT5G08790,GO:0009416,response to light stimulus
+AT5G08790,GO:0009753,response to jasmonic acid
+AT5G08790,GO:0009611,response to wounding
+AT5G08790,GO:0010150,leaf senescence
+AT5G08790,GO:0009620,response to fungus
+AT5G08790,GO:0009751,response to salicylic acid
+AT5G10760,GO:0009627,systemic acquired resistance
+AT5G13320,GO:0010112,regulation of systemic acquired resistance
+AT5G13320,GO:0042742,defense response to bacterium
+AT5G13330,GO:0009737,response to abscisic acid
+AT5G13330,GO:0009651,response to salt stress
+AT5G13330,GO:0009751,response to salicylic acid
+AT5G13330,GO:0009753,response to jasmonic acid
+AT5G13330,GO:0009414,response to water deprivation
+AT5G24530,GO:0042742,defense response to bacterium
+AT5G24530,GO:0071456,cellular response to hypoxia
+AT5G24530,GO:0009620,response to fungus
+AT5G24530,GO:0002229,defense response to oomycetes
+AT5G24530,GO:0009617,response to bacterium
+AT5G24530,GO:0009751,response to salicylic acid
+AT5G24530,GO:0002239,response to oomycetes
+AT5G24530,GO:0010150,leaf senescence
+AT5G24780,GO:0009753,response to jasmonic acid
+AT5G25250,GO:0071456,cellular response to hypoxia
+AT5G26340,GO:0009414,response to water deprivation
+AT5G26340,GO:0009737,response to abscisic acid
+AT5G26340,GO:0009651,response to salt stress
+AT5G26920,GO:0042742,defense response to bacterium
+AT5G26920,GO:0002229,defense response to oomycetes
+AT5G26920,GO:0071456,cellular response to hypoxia
+AT5G26920,GO:0010112,regulation of systemic acquired resistance
+AT5G26920,GO:0002237,response to molecule of bacterial origin
+AT5G26920,GO:0009617,response to bacterium
+AT5G26920,GO:0009620,response to fungus
+AT5G27600,GO:0009651,response to salt stress
+AT5G27600,GO:0010193,response to ozone
+AT5G35735,GO:0071456,cellular response to hypoxia
+AT5G39520,GO:0010150,leaf senescence
+AT5G39520,GO:0009737,response to abscisic acid
+AT5G41750,GO:0007165,signal transduction
+AT5G42380,GO:0010193,response to ozone
+AT5G42380,GO:0009414,response to water deprivation
+AT5G42380,GO:0071456,cellular response to hypoxia
+AT5G45630,GO:0071456,cellular response to hypoxia
+AT5G45630,GO:0009617,response to bacterium
+AT5G45630,GO:0010150,leaf senescence
+AT5G45630,GO:0009737,response to abscisic acid
+AT5G45630,GO:0009751,response to salicylic acid
+AT5G48380,GO:0009626,plant-type hypersensitive response
+AT5G48380,GO:0042742,defense response to bacterium
+AT5G48570,GO:0070370,cellular heat acclimation
+AT5G52300,GO:0009737,response to abscisic acid
+AT5G52300,GO:0009414,response to water deprivation
+AT5G52300,GO:0010150,leaf senescence
+AT5G52300,GO:0009651,response to salt stress
+AT5G52300,GO:0009409,response to cold
+AT5G52640,GO:0042742,defense response to bacterium
+AT5G52640,GO:0009408,response to heat
+AT5G52640,GO:0034605,cellular response to heat
+AT5G54610,GO:0009751,response to salicylic acid
+AT5G55460,GO:0009627,systemic acquired resistance
+AT5G61010,GO:0006955,immune response
+AT5G62480,GO:0009407,toxin catabolic process
+AT5G62480,GO:0006749,glutathione metabolic process

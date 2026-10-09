@@ -1,0 +1,10 @@
+,no_qualifying_endpoint_response,persistent_same_direction,recovered,substantial_reversal,endpoint_responders,endpoint_engagement_percent,persistence_among_responders_percent,recovery_among_responders_percent,reversal_among_responders_percent
+cold,7,5,1,0,6,46.15384615384615,83.33333333333334,16.666666666666664,0.0
+cold_high_light,6,0,6,1,7,53.84615384615385,0.0,85.71428571428571,14.285714285714285
+drought,1,12,0,0,12,92.3076923076923,100.0,0.0,0.0
+heat,1,6,6,0,12,92.3076923076923,50.0,50.0,0.0
+heat_drought,1,12,0,0,12,92.3076923076923,100.0,0.0,0.0
+heat_drought_high_light,1,12,0,0,12,92.3076923076923,100.0,0.0,0.0
+heat_high_light,6,7,0,0,7,53.84615384615385,100.0,0.0,0.0
+high_humidity,8,1,4,0,5,38.46153846153847,20.0,80.0,0.0
+high_light,0,13,0,0,13,100.0,100.0,0.0,0.0

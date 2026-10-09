@@ -1,0 +1,14 @@
+gene_id,n_communities,communities,n_persistent_conditions,persistent_conditions,n_persistent_up,n_persistent_down,gene_model_type,best_description
+AT3G56400,4,"1,2,3,4",5,"drought, heat_drought, heat_drought_high_light, heat_high_light, high_light",5,0,protein_coding,WRKY DNA-binding protein 70
+AT4G02380,4,"1,2,3,4",4,"drought, heat_drought, heat_drought_high_light, high_light",4,0,protein_coding,senescence-associated gene 21
+AT1G21250,3,"1,2,4",7,"cold, drought, heat, heat_drought, heat_drought_high_light, heat_high_light, high_light",7,0,protein_coding,cell wall-associated kinase
+AT3G26830,3,"1,3,4",7,"cold, drought, heat, heat_drought, heat_drought_high_light, heat_high_light, high_light",7,0,protein_coding,Cytochrome P450 superfamily protein
+AT3G49120,3,"2,3,4",7,"cold, drought, heat, heat_drought, heat_drought_high_light, heat_high_light, high_light",7,0,protein_coding,peroxidase CB
+AT2G40750,3,"2,3,4",6,"cold, drought, heat, heat_drought_high_light, heat_high_light, high_light",6,0,protein_coding,WRKY DNA-binding protein 54
+AT3G01420,3,"2,3,4",6,"drought, heat, heat_drought, heat_drought_high_light, high_humidity, high_light",6,0,protein_coding,Peroxidase superfamily protein
+AT1G73260,3,"1,2,4",5,"drought, heat, heat_drought, heat_drought_high_light, high_light",5,0,protein_coding,kunitz trypsin inhibitor 1
+AT2G38470,3,"2,3,4",5,"drought, heat_drought, heat_drought_high_light, heat_high_light, high_light",5,0,protein_coding,WRKY DNA-binding protein 33
+AT1G15520,3,"1,2,3",4,"cold, heat_drought, heat_high_light, high_light",4,0,protein_coding,pleiotropic drug resistance 12
+AT1G19020,3,"1,2,3",4,"drought, heat_drought, heat_drought_high_light, high_light",4,0,protein_coding,Modulates defense against bacterial pathogens and tolerance to oxidative stress. Involved in drought response.
+AT1G80840,3,"1,2,4",4,"drought, heat_drought, heat_drought_high_light, high_light",4,0,protein_coding,WRKY DNA-binding protein 40
+AT5G45630,3,"1,2,3",4,"drought, heat_drought, heat_drought_high_light, high_light",4,0,protein_coding,"Protein of unknown function, DUF584"

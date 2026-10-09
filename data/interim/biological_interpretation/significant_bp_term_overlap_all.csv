@@ -1,0 +1,991 @@
+go_id_a,go_term_a,go_id_b,go_term_b,genes_a,genes_b,intersection,jaccard,overlap_coefficient
+GO:0000302,response to reactive oxygen species,GO:0002229,defense response to oomycetes,5,6,1,0.1,0.2
+GO:0000302,response to reactive oxygen species,GO:0002237,response to molecule of bacterial origin,5,6,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0002239,response to oomycetes,5,4,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0006749,glutathione metabolic process,5,4,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0006955,immune response,5,6,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0006970,response to osmotic stress,5,8,2,0.18181818181818182,0.4
+GO:0000302,response to reactive oxygen species,GO:0006979,response to oxidative stress,5,8,2,0.18181818181818182,0.4
+GO:0000302,response to reactive oxygen species,GO:0007165,signal transduction,5,14,1,0.05555555555555555,0.2
+GO:0000302,response to reactive oxygen species,GO:0009407,toxin catabolic process,5,4,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0009408,response to heat,5,7,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0009409,response to cold,5,12,1,0.0625,0.2
+GO:0000302,response to reactive oxygen species,GO:0009414,response to water deprivation,5,21,2,0.08333333333333333,0.4
+GO:0000302,response to reactive oxygen species,GO:0009416,response to light stimulus,5,7,1,0.09090909090909091,0.2
+GO:0000302,response to reactive oxygen species,GO:0009611,response to wounding,5,12,1,0.0625,0.2
+GO:0000302,response to reactive oxygen species,GO:0009615,response to virus,5,6,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0009617,response to bacterium,5,22,2,0.08,0.4
+GO:0000302,response to reactive oxygen species,GO:0009620,response to fungus,5,10,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0009624,response to nematode,5,6,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0009625,response to insect,5,4,2,0.2857142857142857,0.5
+GO:0000302,response to reactive oxygen species,GO:0009626,plant-type hypersensitive response,5,7,1,0.09090909090909091,0.2
+GO:0000302,response to reactive oxygen species,GO:0009627,systemic acquired resistance,5,13,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0009651,response to salt stress,5,15,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0009682,induced systemic resistance,5,3,1,0.14285714285714285,0.3333333333333333
+GO:0000302,response to reactive oxygen species,GO:0009737,response to abscisic acid,5,23,1,0.037037037037037035,0.2
+GO:0000302,response to reactive oxygen species,GO:0009751,response to salicylic acid,5,22,2,0.08,0.4
+GO:0000302,response to reactive oxygen species,GO:0009753,response to jasmonic acid,5,11,1,0.06666666666666667,0.2
+GO:0000302,response to reactive oxygen species,GO:0010112,regulation of systemic acquired resistance,5,4,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0010120,camalexin biosynthetic process,5,4,1,0.125,0.25
+GO:0000302,response to reactive oxygen species,GO:0010150,leaf senescence,5,11,2,0.14285714285714285,0.4
+GO:0000302,response to reactive oxygen species,GO:0010193,response to ozone,5,3,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0010230,alternative respiration,5,3,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0031347,regulation of defense response,5,5,2,0.25,0.4
+GO:0000302,response to reactive oxygen species,GO:0034605,cellular response to heat,5,5,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0042742,defense response to bacterium,5,24,3,0.11538461538461539,0.6
+GO:0000302,response to reactive oxygen species,GO:0050832,defense response to fungus,5,15,2,0.1111111111111111,0.4
+GO:0000302,response to reactive oxygen species,GO:0070370,cellular heat acclimation,5,3,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:0071456,cellular response to hypoxia,5,18,2,0.09523809523809523,0.4
+GO:0000302,response to reactive oxygen species,GO:0080136,priming of cellular response to stress,5,3,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:1900150,regulation of defense response to fungus,5,5,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:1900426,positive regulation of defense response to bacterium,5,4,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:1902290,positive regulation of defense response to oomycetes,5,3,0,0.0,0.0
+GO:0000302,response to reactive oxygen species,GO:2000022,regulation of jasmonic acid mediated signaling pathway,5,6,2,0.2222222222222222,0.4
+GO:0000302,response to reactive oxygen species,GO:2000031,regulation of salicylic acid mediated signaling pathway,5,3,2,0.3333333333333333,0.6666666666666666
+GO:0000302,response to reactive oxygen species,GO:2000070,regulation of response to water deprivation,5,3,2,0.3333333333333333,0.6666666666666666
+GO:0002229,defense response to oomycetes,GO:0002237,response to molecule of bacterial origin,6,6,1,0.09090909090909091,0.16666666666666666
+GO:0002229,defense response to oomycetes,GO:0002239,response to oomycetes,6,4,2,0.25,0.5
+GO:0002229,defense response to oomycetes,GO:0006749,glutathione metabolic process,6,4,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0006955,immune response,6,6,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0006970,response to osmotic stress,6,8,1,0.07692307692307693,0.16666666666666666
+GO:0002229,defense response to oomycetes,GO:0006979,response to oxidative stress,6,8,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0007165,signal transduction,6,14,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0009407,toxin catabolic process,6,4,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0009408,response to heat,6,7,1,0.08333333333333333,0.16666666666666666
+GO:0002229,defense response to oomycetes,GO:0009409,response to cold,6,12,1,0.058823529411764705,0.16666666666666666
+GO:0002229,defense response to oomycetes,GO:0009414,response to water deprivation,6,21,1,0.038461538461538464,0.16666666666666666
+GO:0002229,defense response to oomycetes,GO:0009416,response to light stimulus,6,7,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0009611,response to wounding,6,12,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0009615,response to virus,6,6,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0009617,response to bacterium,6,22,5,0.21739130434782608,0.8333333333333334
+GO:0002229,defense response to oomycetes,GO:0009620,response to fungus,6,10,3,0.23076923076923078,0.5
+GO:0002229,defense response to oomycetes,GO:0009624,response to nematode,6,6,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0009625,response to insect,6,4,1,0.1111111111111111,0.25
+GO:0002229,defense response to oomycetes,GO:0009626,plant-type hypersensitive response,6,7,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0009627,systemic acquired resistance,6,13,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0009651,response to salt stress,6,15,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0009682,induced systemic resistance,6,3,1,0.125,0.3333333333333333
+GO:0002229,defense response to oomycetes,GO:0009737,response to abscisic acid,6,23,1,0.03571428571428571,0.16666666666666666
+GO:0002229,defense response to oomycetes,GO:0009751,response to salicylic acid,6,22,4,0.16666666666666666,0.6666666666666666
+GO:0002229,defense response to oomycetes,GO:0009753,response to jasmonic acid,6,11,2,0.13333333333333333,0.3333333333333333
+GO:0002229,defense response to oomycetes,GO:0010112,regulation of systemic acquired resistance,6,4,2,0.25,0.5
+GO:0002229,defense response to oomycetes,GO:0010120,camalexin biosynthetic process,6,4,1,0.1111111111111111,0.25
+GO:0002229,defense response to oomycetes,GO:0010150,leaf senescence,6,11,3,0.21428571428571427,0.5
+GO:0002229,defense response to oomycetes,GO:0010193,response to ozone,6,3,1,0.125,0.3333333333333333
+GO:0002229,defense response to oomycetes,GO:0010230,alternative respiration,6,3,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0031347,regulation of defense response,6,5,1,0.1,0.2
+GO:0002229,defense response to oomycetes,GO:0034605,cellular response to heat,6,5,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0042742,defense response to bacterium,6,24,4,0.15384615384615385,0.6666666666666666
+GO:0002229,defense response to oomycetes,GO:0050832,defense response to fungus,6,15,1,0.05,0.16666666666666666
+GO:0002229,defense response to oomycetes,GO:0070370,cellular heat acclimation,6,3,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:0071456,cellular response to hypoxia,6,18,3,0.14285714285714285,0.5
+GO:0002229,defense response to oomycetes,GO:0080136,priming of cellular response to stress,6,3,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:1900150,regulation of defense response to fungus,6,5,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:1900426,positive regulation of defense response to bacterium,6,4,1,0.1111111111111111,0.25
+GO:0002229,defense response to oomycetes,GO:1902290,positive regulation of defense response to oomycetes,6,3,0,0.0,0.0
+GO:0002229,defense response to oomycetes,GO:2000022,regulation of jasmonic acid mediated signaling pathway,6,6,1,0.09090909090909091,0.16666666666666666
+GO:0002229,defense response to oomycetes,GO:2000031,regulation of salicylic acid mediated signaling pathway,6,3,1,0.125,0.3333333333333333
+GO:0002229,defense response to oomycetes,GO:2000070,regulation of response to water deprivation,6,3,1,0.125,0.3333333333333333
+GO:0002237,response to molecule of bacterial origin,GO:0002239,response to oomycetes,6,4,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0006749,glutathione metabolic process,6,4,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0006955,immune response,6,6,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0006970,response to osmotic stress,6,8,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0006979,response to oxidative stress,6,8,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0007165,signal transduction,6,14,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0009407,toxin catabolic process,6,4,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0009408,response to heat,6,7,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0009409,response to cold,6,12,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0009414,response to water deprivation,6,21,1,0.038461538461538464,0.16666666666666666
+GO:0002237,response to molecule of bacterial origin,GO:0009416,response to light stimulus,6,7,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0009611,response to wounding,6,12,2,0.125,0.3333333333333333
+GO:0002237,response to molecule of bacterial origin,GO:0009615,response to virus,6,6,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0009617,response to bacterium,6,22,3,0.12,0.5
+GO:0002237,response to molecule of bacterial origin,GO:0009620,response to fungus,6,10,2,0.14285714285714285,0.3333333333333333
+GO:0002237,response to molecule of bacterial origin,GO:0009624,response to nematode,6,6,2,0.2,0.3333333333333333
+GO:0002237,response to molecule of bacterial origin,GO:0009625,response to insect,6,4,1,0.1111111111111111,0.25
+GO:0002237,response to molecule of bacterial origin,GO:0009626,plant-type hypersensitive response,6,7,1,0.08333333333333333,0.16666666666666666
+GO:0002237,response to molecule of bacterial origin,GO:0009627,systemic acquired resistance,6,13,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0009651,response to salt stress,6,15,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0009682,induced systemic resistance,6,3,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0009737,response to abscisic acid,6,23,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0009751,response to salicylic acid,6,22,2,0.07692307692307693,0.3333333333333333
+GO:0002237,response to molecule of bacterial origin,GO:0009753,response to jasmonic acid,6,11,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0010112,regulation of systemic acquired resistance,6,4,1,0.1111111111111111,0.25
+GO:0002237,response to molecule of bacterial origin,GO:0010120,camalexin biosynthetic process,6,4,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0010150,leaf senescence,6,11,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0010193,response to ozone,6,3,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0010230,alternative respiration,6,3,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0031347,regulation of defense response,6,5,1,0.1,0.2
+GO:0002237,response to molecule of bacterial origin,GO:0034605,cellular response to heat,6,5,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0042742,defense response to bacterium,6,24,3,0.1111111111111111,0.5
+GO:0002237,response to molecule of bacterial origin,GO:0050832,defense response to fungus,6,15,2,0.10526315789473684,0.3333333333333333
+GO:0002237,response to molecule of bacterial origin,GO:0070370,cellular heat acclimation,6,3,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:0071456,cellular response to hypoxia,6,18,1,0.043478260869565216,0.16666666666666666
+GO:0002237,response to molecule of bacterial origin,GO:0080136,priming of cellular response to stress,6,3,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:1900150,regulation of defense response to fungus,6,5,1,0.1,0.2
+GO:0002237,response to molecule of bacterial origin,GO:1900426,positive regulation of defense response to bacterium,6,4,1,0.1111111111111111,0.25
+GO:0002237,response to molecule of bacterial origin,GO:1902290,positive regulation of defense response to oomycetes,6,3,1,0.125,0.3333333333333333
+GO:0002237,response to molecule of bacterial origin,GO:2000022,regulation of jasmonic acid mediated signaling pathway,6,6,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:2000031,regulation of salicylic acid mediated signaling pathway,6,3,0,0.0,0.0
+GO:0002237,response to molecule of bacterial origin,GO:2000070,regulation of response to water deprivation,6,3,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0006749,glutathione metabolic process,4,4,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0006955,immune response,4,6,1,0.1111111111111111,0.25
+GO:0002239,response to oomycetes,GO:0006970,response to osmotic stress,4,8,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0006979,response to oxidative stress,4,8,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0007165,signal transduction,4,14,1,0.058823529411764705,0.25
+GO:0002239,response to oomycetes,GO:0009407,toxin catabolic process,4,4,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0009408,response to heat,4,7,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0009409,response to cold,4,12,1,0.06666666666666667,0.25
+GO:0002239,response to oomycetes,GO:0009414,response to water deprivation,4,21,1,0.041666666666666664,0.25
+GO:0002239,response to oomycetes,GO:0009416,response to light stimulus,4,7,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0009611,response to wounding,4,12,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0009615,response to virus,4,6,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0009617,response to bacterium,4,22,2,0.08333333333333333,0.5
+GO:0002239,response to oomycetes,GO:0009620,response to fungus,4,10,2,0.16666666666666666,0.5
+GO:0002239,response to oomycetes,GO:0009624,response to nematode,4,6,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0009625,response to insect,4,4,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0009626,plant-type hypersensitive response,4,7,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0009627,systemic acquired resistance,4,13,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0009651,response to salt stress,4,15,1,0.05555555555555555,0.25
+GO:0002239,response to oomycetes,GO:0009682,induced systemic resistance,4,3,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0009737,response to abscisic acid,4,23,1,0.038461538461538464,0.25
+GO:0002239,response to oomycetes,GO:0009751,response to salicylic acid,4,22,2,0.08333333333333333,0.5
+GO:0002239,response to oomycetes,GO:0009753,response to jasmonic acid,4,11,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0010112,regulation of systemic acquired resistance,4,4,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0010120,camalexin biosynthetic process,4,4,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0010150,leaf senescence,4,11,2,0.15384615384615385,0.5
+GO:0002239,response to oomycetes,GO:0010193,response to ozone,4,3,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0010230,alternative respiration,4,3,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0031347,regulation of defense response,4,5,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0034605,cellular response to heat,4,5,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0042742,defense response to bacterium,4,24,1,0.037037037037037035,0.25
+GO:0002239,response to oomycetes,GO:0050832,defense response to fungus,4,15,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0070370,cellular heat acclimation,4,3,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:0071456,cellular response to hypoxia,4,18,1,0.047619047619047616,0.25
+GO:0002239,response to oomycetes,GO:0080136,priming of cellular response to stress,4,3,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:1900150,regulation of defense response to fungus,4,5,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:1900426,positive regulation of defense response to bacterium,4,4,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:1902290,positive regulation of defense response to oomycetes,4,3,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:2000022,regulation of jasmonic acid mediated signaling pathway,4,6,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:2000031,regulation of salicylic acid mediated signaling pathway,4,3,0,0.0,0.0
+GO:0002239,response to oomycetes,GO:2000070,regulation of response to water deprivation,4,3,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0006955,immune response,4,6,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0006970,response to osmotic stress,4,8,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0006979,response to oxidative stress,4,8,1,0.09090909090909091,0.25
+GO:0006749,glutathione metabolic process,GO:0007165,signal transduction,4,14,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009407,toxin catabolic process,4,4,4,1.0,1.0
+GO:0006749,glutathione metabolic process,GO:0009408,response to heat,4,7,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009409,response to cold,4,12,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009414,response to water deprivation,4,21,1,0.041666666666666664,0.25
+GO:0006749,glutathione metabolic process,GO:0009416,response to light stimulus,4,7,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009611,response to wounding,4,12,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009615,response to virus,4,6,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009617,response to bacterium,4,22,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009620,response to fungus,4,10,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009624,response to nematode,4,6,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009625,response to insect,4,4,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009626,plant-type hypersensitive response,4,7,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009627,systemic acquired resistance,4,13,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009651,response to salt stress,4,15,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009682,induced systemic resistance,4,3,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009737,response to abscisic acid,4,23,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009751,response to salicylic acid,4,22,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0009753,response to jasmonic acid,4,11,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0010112,regulation of systemic acquired resistance,4,4,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0010120,camalexin biosynthetic process,4,4,1,0.14285714285714285,0.25
+GO:0006749,glutathione metabolic process,GO:0010150,leaf senescence,4,11,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0010193,response to ozone,4,3,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0010230,alternative respiration,4,3,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0031347,regulation of defense response,4,5,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0034605,cellular response to heat,4,5,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0042742,defense response to bacterium,4,24,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0050832,defense response to fungus,4,15,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0070370,cellular heat acclimation,4,3,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0071456,cellular response to hypoxia,4,18,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:0080136,priming of cellular response to stress,4,3,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:1900150,regulation of defense response to fungus,4,5,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:1900426,positive regulation of defense response to bacterium,4,4,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:1902290,positive regulation of defense response to oomycetes,4,3,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:2000022,regulation of jasmonic acid mediated signaling pathway,4,6,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:2000031,regulation of salicylic acid mediated signaling pathway,4,3,0,0.0,0.0
+GO:0006749,glutathione metabolic process,GO:2000070,regulation of response to water deprivation,4,3,0,0.0,0.0
+GO:0006955,immune response,GO:0006970,response to osmotic stress,6,8,0,0.0,0.0
+GO:0006955,immune response,GO:0006979,response to oxidative stress,6,8,0,0.0,0.0
+GO:0006955,immune response,GO:0007165,signal transduction,6,14,5,0.3333333333333333,0.8333333333333334
+GO:0006955,immune response,GO:0009407,toxin catabolic process,6,4,0,0.0,0.0
+GO:0006955,immune response,GO:0009408,response to heat,6,7,0,0.0,0.0
+GO:0006955,immune response,GO:0009409,response to cold,6,12,1,0.058823529411764705,0.16666666666666666
+GO:0006955,immune response,GO:0009414,response to water deprivation,6,21,1,0.038461538461538464,0.16666666666666666
+GO:0006955,immune response,GO:0009416,response to light stimulus,6,7,0,0.0,0.0
+GO:0006955,immune response,GO:0009611,response to wounding,6,12,0,0.0,0.0
+GO:0006955,immune response,GO:0009615,response to virus,6,6,0,0.0,0.0
+GO:0006955,immune response,GO:0009617,response to bacterium,6,22,0,0.0,0.0
+GO:0006955,immune response,GO:0009620,response to fungus,6,10,0,0.0,0.0
+GO:0006955,immune response,GO:0009624,response to nematode,6,6,0,0.0,0.0
+GO:0006955,immune response,GO:0009625,response to insect,6,4,0,0.0,0.0
+GO:0006955,immune response,GO:0009626,plant-type hypersensitive response,6,7,0,0.0,0.0
+GO:0006955,immune response,GO:0009627,systemic acquired resistance,6,13,0,0.0,0.0
+GO:0006955,immune response,GO:0009651,response to salt stress,6,15,1,0.05,0.16666666666666666
+GO:0006955,immune response,GO:0009682,induced systemic resistance,6,3,0,0.0,0.0
+GO:0006955,immune response,GO:0009737,response to abscisic acid,6,23,2,0.07407407407407407,0.3333333333333333
+GO:0006955,immune response,GO:0009751,response to salicylic acid,6,22,0,0.0,0.0
+GO:0006955,immune response,GO:0009753,response to jasmonic acid,6,11,0,0.0,0.0
+GO:0006955,immune response,GO:0010112,regulation of systemic acquired resistance,6,4,0,0.0,0.0
+GO:0006955,immune response,GO:0010120,camalexin biosynthetic process,6,4,0,0.0,0.0
+GO:0006955,immune response,GO:0010150,leaf senescence,6,11,0,0.0,0.0
+GO:0006955,immune response,GO:0010193,response to ozone,6,3,0,0.0,0.0
+GO:0006955,immune response,GO:0010230,alternative respiration,6,3,0,0.0,0.0
+GO:0006955,immune response,GO:0031347,regulation of defense response,6,5,0,0.0,0.0
+GO:0006955,immune response,GO:0034605,cellular response to heat,6,5,0,0.0,0.0
+GO:0006955,immune response,GO:0042742,defense response to bacterium,6,24,0,0.0,0.0
+GO:0006955,immune response,GO:0050832,defense response to fungus,6,15,0,0.0,0.0
+GO:0006955,immune response,GO:0070370,cellular heat acclimation,6,3,0,0.0,0.0
+GO:0006955,immune response,GO:0071456,cellular response to hypoxia,6,18,0,0.0,0.0
+GO:0006955,immune response,GO:0080136,priming of cellular response to stress,6,3,0,0.0,0.0
+GO:0006955,immune response,GO:1900150,regulation of defense response to fungus,6,5,0,0.0,0.0
+GO:0006955,immune response,GO:1900426,positive regulation of defense response to bacterium,6,4,0,0.0,0.0
+GO:0006955,immune response,GO:1902290,positive regulation of defense response to oomycetes,6,3,0,0.0,0.0
+GO:0006955,immune response,GO:2000022,regulation of jasmonic acid mediated signaling pathway,6,6,0,0.0,0.0
+GO:0006955,immune response,GO:2000031,regulation of salicylic acid mediated signaling pathway,6,3,0,0.0,0.0
+GO:0006955,immune response,GO:2000070,regulation of response to water deprivation,6,3,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0006979,response to oxidative stress,8,8,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0007165,signal transduction,8,14,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0009407,toxin catabolic process,8,4,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0009408,response to heat,8,7,2,0.15384615384615385,0.2857142857142857
+GO:0006970,response to osmotic stress,GO:0009409,response to cold,8,12,4,0.25,0.5
+GO:0006970,response to osmotic stress,GO:0009414,response to water deprivation,8,21,3,0.11538461538461539,0.375
+GO:0006970,response to osmotic stress,GO:0009416,response to light stimulus,8,7,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0009611,response to wounding,8,12,1,0.05263157894736842,0.125
+GO:0006970,response to osmotic stress,GO:0009615,response to virus,8,6,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0009617,response to bacterium,8,22,1,0.034482758620689655,0.125
+GO:0006970,response to osmotic stress,GO:0009620,response to fungus,8,10,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0009624,response to nematode,8,6,1,0.07692307692307693,0.16666666666666666
+GO:0006970,response to osmotic stress,GO:0009625,response to insect,8,4,1,0.09090909090909091,0.25
+GO:0006970,response to osmotic stress,GO:0009626,plant-type hypersensitive response,8,7,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0009627,systemic acquired resistance,8,13,1,0.05,0.125
+GO:0006970,response to osmotic stress,GO:0009651,response to salt stress,8,15,3,0.15,0.375
+GO:0006970,response to osmotic stress,GO:0009682,induced systemic resistance,8,3,1,0.1,0.3333333333333333
+GO:0006970,response to osmotic stress,GO:0009737,response to abscisic acid,8,23,3,0.10714285714285714,0.375
+GO:0006970,response to osmotic stress,GO:0009751,response to salicylic acid,8,22,3,0.1111111111111111,0.375
+GO:0006970,response to osmotic stress,GO:0009753,response to jasmonic acid,8,11,2,0.11764705882352941,0.25
+GO:0006970,response to osmotic stress,GO:0010112,regulation of systemic acquired resistance,8,4,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0010120,camalexin biosynthetic process,8,4,2,0.2,0.5
+GO:0006970,response to osmotic stress,GO:0010150,leaf senescence,8,11,1,0.05555555555555555,0.125
+GO:0006970,response to osmotic stress,GO:0010193,response to ozone,8,3,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0010230,alternative respiration,8,3,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:0031347,regulation of defense response,8,5,2,0.18181818181818182,0.4
+GO:0006970,response to osmotic stress,GO:0034605,cellular response to heat,8,5,3,0.3,0.6
+GO:0006970,response to osmotic stress,GO:0042742,defense response to bacterium,8,24,3,0.10344827586206896,0.375
+GO:0006970,response to osmotic stress,GO:0050832,defense response to fungus,8,15,3,0.15,0.375
+GO:0006970,response to osmotic stress,GO:0070370,cellular heat acclimation,8,3,2,0.2222222222222222,0.6666666666666666
+GO:0006970,response to osmotic stress,GO:0071456,cellular response to hypoxia,8,18,1,0.04,0.125
+GO:0006970,response to osmotic stress,GO:0080136,priming of cellular response to stress,8,3,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:1900150,regulation of defense response to fungus,8,5,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:1900426,positive regulation of defense response to bacterium,8,4,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:1902290,positive regulation of defense response to oomycetes,8,3,0,0.0,0.0
+GO:0006970,response to osmotic stress,GO:2000022,regulation of jasmonic acid mediated signaling pathway,8,6,2,0.16666666666666666,0.3333333333333333
+GO:0006970,response to osmotic stress,GO:2000031,regulation of salicylic acid mediated signaling pathway,8,3,2,0.2222222222222222,0.6666666666666666
+GO:0006970,response to osmotic stress,GO:2000070,regulation of response to water deprivation,8,3,2,0.2222222222222222,0.6666666666666666
+GO:0006979,response to oxidative stress,GO:0007165,signal transduction,8,14,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0009407,toxin catabolic process,8,4,1,0.09090909090909091,0.25
+GO:0006979,response to oxidative stress,GO:0009408,response to heat,8,7,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0009409,response to cold,8,12,2,0.1111111111111111,0.25
+GO:0006979,response to oxidative stress,GO:0009414,response to water deprivation,8,21,4,0.16,0.5
+GO:0006979,response to oxidative stress,GO:0009416,response to light stimulus,8,7,3,0.25,0.42857142857142855
+GO:0006979,response to oxidative stress,GO:0009611,response to wounding,8,12,2,0.1111111111111111,0.25
+GO:0006979,response to oxidative stress,GO:0009615,response to virus,8,6,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0009617,response to bacterium,8,22,1,0.034482758620689655,0.125
+GO:0006979,response to oxidative stress,GO:0009620,response to fungus,8,10,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0009624,response to nematode,8,6,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0009625,response to insect,8,4,1,0.09090909090909091,0.25
+GO:0006979,response to oxidative stress,GO:0009626,plant-type hypersensitive response,8,7,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0009627,systemic acquired resistance,8,13,1,0.05,0.125
+GO:0006979,response to oxidative stress,GO:0009651,response to salt stress,8,15,2,0.09523809523809523,0.25
+GO:0006979,response to oxidative stress,GO:0009682,induced systemic resistance,8,3,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0009737,response to abscisic acid,8,23,3,0.10714285714285714,0.375
+GO:0006979,response to oxidative stress,GO:0009751,response to salicylic acid,8,22,1,0.034482758620689655,0.125
+GO:0006979,response to oxidative stress,GO:0009753,response to jasmonic acid,8,11,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0010112,regulation of systemic acquired resistance,8,4,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0010120,camalexin biosynthetic process,8,4,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0010150,leaf senescence,8,11,1,0.05555555555555555,0.125
+GO:0006979,response to oxidative stress,GO:0010193,response to ozone,8,3,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0010230,alternative respiration,8,3,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0031347,regulation of defense response,8,5,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0034605,cellular response to heat,8,5,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0042742,defense response to bacterium,8,24,2,0.06666666666666667,0.25
+GO:0006979,response to oxidative stress,GO:0050832,defense response to fungus,8,15,3,0.15,0.375
+GO:0006979,response to oxidative stress,GO:0070370,cellular heat acclimation,8,3,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:0071456,cellular response to hypoxia,8,18,2,0.08333333333333333,0.25
+GO:0006979,response to oxidative stress,GO:0080136,priming of cellular response to stress,8,3,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:1900150,regulation of defense response to fungus,8,5,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:1900426,positive regulation of defense response to bacterium,8,4,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:1902290,positive regulation of defense response to oomycetes,8,3,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:2000022,regulation of jasmonic acid mediated signaling pathway,8,6,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:2000031,regulation of salicylic acid mediated signaling pathway,8,3,0,0.0,0.0
+GO:0006979,response to oxidative stress,GO:2000070,regulation of response to water deprivation,8,3,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009407,toxin catabolic process,14,4,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009408,response to heat,14,7,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009409,response to cold,14,12,1,0.04,0.08333333333333333
+GO:0007165,signal transduction,GO:0009414,response to water deprivation,14,21,1,0.029411764705882353,0.07142857142857142
+GO:0007165,signal transduction,GO:0009416,response to light stimulus,14,7,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009611,response to wounding,14,12,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009615,response to virus,14,6,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009617,response to bacterium,14,22,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009620,response to fungus,14,10,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009624,response to nematode,14,6,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009625,response to insect,14,4,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009626,plant-type hypersensitive response,14,7,1,0.05,0.14285714285714285
+GO:0007165,signal transduction,GO:0009627,systemic acquired resistance,14,13,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009651,response to salt stress,14,15,2,0.07407407407407407,0.14285714285714285
+GO:0007165,signal transduction,GO:0009682,induced systemic resistance,14,3,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009737,response to abscisic acid,14,23,3,0.08823529411764706,0.21428571428571427
+GO:0007165,signal transduction,GO:0009751,response to salicylic acid,14,22,0,0.0,0.0
+GO:0007165,signal transduction,GO:0009753,response to jasmonic acid,14,11,0,0.0,0.0
+GO:0007165,signal transduction,GO:0010112,regulation of systemic acquired resistance,14,4,0,0.0,0.0
+GO:0007165,signal transduction,GO:0010120,camalexin biosynthetic process,14,4,0,0.0,0.0
+GO:0007165,signal transduction,GO:0010150,leaf senescence,14,11,1,0.041666666666666664,0.09090909090909091
+GO:0007165,signal transduction,GO:0010193,response to ozone,14,3,0,0.0,0.0
+GO:0007165,signal transduction,GO:0010230,alternative respiration,14,3,0,0.0,0.0
+GO:0007165,signal transduction,GO:0031347,regulation of defense response,14,5,0,0.0,0.0
+GO:0007165,signal transduction,GO:0034605,cellular response to heat,14,5,0,0.0,0.0
+GO:0007165,signal transduction,GO:0042742,defense response to bacterium,14,24,1,0.02702702702702703,0.07142857142857142
+GO:0007165,signal transduction,GO:0050832,defense response to fungus,14,15,0,0.0,0.0
+GO:0007165,signal transduction,GO:0070370,cellular heat acclimation,14,3,0,0.0,0.0
+GO:0007165,signal transduction,GO:0071456,cellular response to hypoxia,14,18,2,0.06666666666666667,0.14285714285714285
+GO:0007165,signal transduction,GO:0080136,priming of cellular response to stress,14,3,1,0.0625,0.3333333333333333
+GO:0007165,signal transduction,GO:1900150,regulation of defense response to fungus,14,5,0,0.0,0.0
+GO:0007165,signal transduction,GO:1900426,positive regulation of defense response to bacterium,14,4,0,0.0,0.0
+GO:0007165,signal transduction,GO:1902290,positive regulation of defense response to oomycetes,14,3,0,0.0,0.0
+GO:0007165,signal transduction,GO:2000022,regulation of jasmonic acid mediated signaling pathway,14,6,0,0.0,0.0
+GO:0007165,signal transduction,GO:2000031,regulation of salicylic acid mediated signaling pathway,14,3,0,0.0,0.0
+GO:0007165,signal transduction,GO:2000070,regulation of response to water deprivation,14,3,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009408,response to heat,4,7,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009409,response to cold,4,12,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009414,response to water deprivation,4,21,1,0.041666666666666664,0.25
+GO:0009407,toxin catabolic process,GO:0009416,response to light stimulus,4,7,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009611,response to wounding,4,12,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009615,response to virus,4,6,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009617,response to bacterium,4,22,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009620,response to fungus,4,10,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009624,response to nematode,4,6,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009625,response to insect,4,4,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009626,plant-type hypersensitive response,4,7,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009627,systemic acquired resistance,4,13,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009651,response to salt stress,4,15,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009682,induced systemic resistance,4,3,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009737,response to abscisic acid,4,23,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009751,response to salicylic acid,4,22,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0009753,response to jasmonic acid,4,11,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0010112,regulation of systemic acquired resistance,4,4,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0010120,camalexin biosynthetic process,4,4,1,0.14285714285714285,0.25
+GO:0009407,toxin catabolic process,GO:0010150,leaf senescence,4,11,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0010193,response to ozone,4,3,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0010230,alternative respiration,4,3,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0031347,regulation of defense response,4,5,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0034605,cellular response to heat,4,5,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0042742,defense response to bacterium,4,24,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0050832,defense response to fungus,4,15,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0070370,cellular heat acclimation,4,3,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0071456,cellular response to hypoxia,4,18,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:0080136,priming of cellular response to stress,4,3,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:1900150,regulation of defense response to fungus,4,5,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:1900426,positive regulation of defense response to bacterium,4,4,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:1902290,positive regulation of defense response to oomycetes,4,3,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:2000022,regulation of jasmonic acid mediated signaling pathway,4,6,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:2000031,regulation of salicylic acid mediated signaling pathway,4,3,0,0.0,0.0
+GO:0009407,toxin catabolic process,GO:2000070,regulation of response to water deprivation,4,3,0,0.0,0.0
+GO:0009408,response to heat,GO:0009409,response to cold,7,12,2,0.11764705882352941,0.2857142857142857
+GO:0009408,response to heat,GO:0009414,response to water deprivation,7,21,3,0.12,0.42857142857142855
+GO:0009408,response to heat,GO:0009416,response to light stimulus,7,7,0,0.0,0.0
+GO:0009408,response to heat,GO:0009611,response to wounding,7,12,0,0.0,0.0
+GO:0009408,response to heat,GO:0009615,response to virus,7,6,2,0.18181818181818182,0.3333333333333333
+GO:0009408,response to heat,GO:0009617,response to bacterium,7,22,2,0.07407407407407407,0.2857142857142857
+GO:0009408,response to heat,GO:0009620,response to fungus,7,10,0,0.0,0.0
+GO:0009408,response to heat,GO:0009624,response to nematode,7,6,1,0.08333333333333333,0.16666666666666666
+GO:0009408,response to heat,GO:0009625,response to insect,7,4,0,0.0,0.0
+GO:0009408,response to heat,GO:0009626,plant-type hypersensitive response,7,7,0,0.0,0.0
+GO:0009408,response to heat,GO:0009627,systemic acquired resistance,7,13,1,0.05263157894736842,0.14285714285714285
+GO:0009408,response to heat,GO:0009651,response to salt stress,7,15,1,0.047619047619047616,0.14285714285714285
+GO:0009408,response to heat,GO:0009682,induced systemic resistance,7,3,0,0.0,0.0
+GO:0009408,response to heat,GO:0009737,response to abscisic acid,7,23,3,0.1111111111111111,0.42857142857142855
+GO:0009408,response to heat,GO:0009751,response to salicylic acid,7,22,1,0.03571428571428571,0.14285714285714285
+GO:0009408,response to heat,GO:0009753,response to jasmonic acid,7,11,1,0.058823529411764705,0.14285714285714285
+GO:0009408,response to heat,GO:0010112,regulation of systemic acquired resistance,7,4,0,0.0,0.0
+GO:0009408,response to heat,GO:0010120,camalexin biosynthetic process,7,4,1,0.1,0.25
+GO:0009408,response to heat,GO:0010150,leaf senescence,7,11,0,0.0,0.0
+GO:0009408,response to heat,GO:0010193,response to ozone,7,3,1,0.1111111111111111,0.3333333333333333
+GO:0009408,response to heat,GO:0010230,alternative respiration,7,3,0,0.0,0.0
+GO:0009408,response to heat,GO:0031347,regulation of defense response,7,5,0,0.0,0.0
+GO:0009408,response to heat,GO:0034605,cellular response to heat,7,5,2,0.2,0.4
+GO:0009408,response to heat,GO:0042742,defense response to bacterium,7,24,2,0.06896551724137931,0.2857142857142857
+GO:0009408,response to heat,GO:0050832,defense response to fungus,7,15,1,0.047619047619047616,0.14285714285714285
+GO:0009408,response to heat,GO:0070370,cellular heat acclimation,7,3,1,0.1111111111111111,0.3333333333333333
+GO:0009408,response to heat,GO:0071456,cellular response to hypoxia,7,18,1,0.041666666666666664,0.14285714285714285
+GO:0009408,response to heat,GO:0080136,priming of cellular response to stress,7,3,0,0.0,0.0
+GO:0009408,response to heat,GO:1900150,regulation of defense response to fungus,7,5,0,0.0,0.0
+GO:0009408,response to heat,GO:1900426,positive regulation of defense response to bacterium,7,4,0,0.0,0.0
+GO:0009408,response to heat,GO:1902290,positive regulation of defense response to oomycetes,7,3,0,0.0,0.0
+GO:0009408,response to heat,GO:2000022,regulation of jasmonic acid mediated signaling pathway,7,6,0,0.0,0.0
+GO:0009408,response to heat,GO:2000031,regulation of salicylic acid mediated signaling pathway,7,3,0,0.0,0.0
+GO:0009408,response to heat,GO:2000070,regulation of response to water deprivation,7,3,0,0.0,0.0
+GO:0009409,response to cold,GO:0009414,response to water deprivation,12,21,9,0.375,0.75
+GO:0009409,response to cold,GO:0009416,response to light stimulus,12,7,1,0.05555555555555555,0.14285714285714285
+GO:0009409,response to cold,GO:0009611,response to wounding,12,12,2,0.09090909090909091,0.16666666666666666
+GO:0009409,response to cold,GO:0009615,response to virus,12,6,0,0.0,0.0
+GO:0009409,response to cold,GO:0009617,response to bacterium,12,22,0,0.0,0.0
+GO:0009409,response to cold,GO:0009620,response to fungus,12,10,0,0.0,0.0
+GO:0009409,response to cold,GO:0009624,response to nematode,12,6,0,0.0,0.0
+GO:0009409,response to cold,GO:0009625,response to insect,12,4,1,0.06666666666666667,0.25
+GO:0009409,response to cold,GO:0009626,plant-type hypersensitive response,12,7,0,0.0,0.0
+GO:0009409,response to cold,GO:0009627,systemic acquired resistance,12,13,2,0.08695652173913043,0.16666666666666666
+GO:0009409,response to cold,GO:0009651,response to salt stress,12,15,8,0.42105263157894735,0.6666666666666666
+GO:0009409,response to cold,GO:0009682,induced systemic resistance,12,3,1,0.07142857142857142,0.3333333333333333
+GO:0009409,response to cold,GO:0009737,response to abscisic acid,12,23,7,0.25,0.5833333333333334
+GO:0009409,response to cold,GO:0009751,response to salicylic acid,12,22,2,0.0625,0.16666666666666666
+GO:0009409,response to cold,GO:0009753,response to jasmonic acid,12,11,2,0.09523809523809523,0.18181818181818182
+GO:0009409,response to cold,GO:0010112,regulation of systemic acquired resistance,12,4,0,0.0,0.0
+GO:0009409,response to cold,GO:0010120,camalexin biosynthetic process,12,4,1,0.06666666666666667,0.25
+GO:0009409,response to cold,GO:0010150,leaf senescence,12,11,2,0.09523809523809523,0.18181818181818182
+GO:0009409,response to cold,GO:0010193,response to ozone,12,3,1,0.07142857142857142,0.3333333333333333
+GO:0009409,response to cold,GO:0010230,alternative respiration,12,3,0,0.0,0.0
+GO:0009409,response to cold,GO:0031347,regulation of defense response,12,5,0,0.0,0.0
+GO:0009409,response to cold,GO:0034605,cellular response to heat,12,5,3,0.21428571428571427,0.6
+GO:0009409,response to cold,GO:0042742,defense response to bacterium,12,24,1,0.02857142857142857,0.08333333333333333
+GO:0009409,response to cold,GO:0050832,defense response to fungus,12,15,2,0.08,0.16666666666666666
+GO:0009409,response to cold,GO:0070370,cellular heat acclimation,12,3,2,0.15384615384615385,0.6666666666666666
+GO:0009409,response to cold,GO:0071456,cellular response to hypoxia,12,18,1,0.034482758620689655,0.08333333333333333
+GO:0009409,response to cold,GO:0080136,priming of cellular response to stress,12,3,0,0.0,0.0
+GO:0009409,response to cold,GO:1900150,regulation of defense response to fungus,12,5,0,0.0,0.0
+GO:0009409,response to cold,GO:1900426,positive regulation of defense response to bacterium,12,4,0,0.0,0.0
+GO:0009409,response to cold,GO:1902290,positive regulation of defense response to oomycetes,12,3,0,0.0,0.0
+GO:0009409,response to cold,GO:2000022,regulation of jasmonic acid mediated signaling pathway,12,6,0,0.0,0.0
+GO:0009409,response to cold,GO:2000031,regulation of salicylic acid mediated signaling pathway,12,3,0,0.0,0.0
+GO:0009409,response to cold,GO:2000070,regulation of response to water deprivation,12,3,0,0.0,0.0
+GO:0009414,response to water deprivation,GO:0009416,response to light stimulus,21,7,2,0.07692307692307693,0.2857142857142857
+GO:0009414,response to water deprivation,GO:0009611,response to wounding,21,12,3,0.1,0.25
+GO:0009414,response to water deprivation,GO:0009615,response to virus,21,6,0,0.0,0.0
+GO:0009414,response to water deprivation,GO:0009617,response to bacterium,21,22,3,0.075,0.14285714285714285
+GO:0009414,response to water deprivation,GO:0009620,response to fungus,21,10,1,0.03333333333333333,0.1
+GO:0009414,response to water deprivation,GO:0009624,response to nematode,21,6,0,0.0,0.0
+GO:0009414,response to water deprivation,GO:0009625,response to insect,21,4,2,0.08695652173913043,0.5
+GO:0009414,response to water deprivation,GO:0009626,plant-type hypersensitive response,21,7,0,0.0,0.0
+GO:0009414,response to water deprivation,GO:0009627,systemic acquired resistance,21,13,2,0.0625,0.15384615384615385
+GO:0009414,response to water deprivation,GO:0009651,response to salt stress,21,15,8,0.2857142857142857,0.5333333333333333
+GO:0009414,response to water deprivation,GO:0009682,induced systemic resistance,21,3,0,0.0,0.0
+GO:0009414,response to water deprivation,GO:0009737,response to abscisic acid,21,23,10,0.29411764705882354,0.47619047619047616
+GO:0009414,response to water deprivation,GO:0009751,response to salicylic acid,21,22,3,0.075,0.14285714285714285
+GO:0009414,response to water deprivation,GO:0009753,response to jasmonic acid,21,11,3,0.10344827586206896,0.2727272727272727
+GO:0009414,response to water deprivation,GO:0010112,regulation of systemic acquired resistance,21,4,1,0.041666666666666664,0.25
+GO:0009414,response to water deprivation,GO:0010120,camalexin biosynthetic process,21,4,2,0.08695652173913043,0.5
+GO:0009414,response to water deprivation,GO:0010150,leaf senescence,21,11,2,0.06666666666666667,0.18181818181818182
+GO:0009414,response to water deprivation,GO:0010193,response to ozone,21,3,2,0.09090909090909091,0.6666666666666666
+GO:0009414,response to water deprivation,GO:0010230,alternative respiration,21,3,0,0.0,0.0
+GO:0009414,response to water deprivation,GO:0031347,regulation of defense response,21,5,0,0.0,0.0
+GO:0009414,response to water deprivation,GO:0034605,cellular response to heat,21,5,2,0.08333333333333333,0.4
+GO:0009414,response to water deprivation,GO:0042742,defense response to bacterium,21,24,1,0.022727272727272728,0.047619047619047616
+GO:0009414,response to water deprivation,GO:0050832,defense response to fungus,21,15,2,0.058823529411764705,0.13333333333333333
+GO:0009414,response to water deprivation,GO:0070370,cellular heat acclimation,21,3,1,0.043478260869565216,0.3333333333333333
+GO:0009414,response to water deprivation,GO:0071456,cellular response to hypoxia,21,18,4,0.11428571428571428,0.2222222222222222
+GO:0009414,response to water deprivation,GO:0080136,priming of cellular response to stress,21,3,1,0.043478260869565216,0.3333333333333333
+GO:0009414,response to water deprivation,GO:1900150,regulation of defense response to fungus,21,5,1,0.04,0.2
+GO:0009414,response to water deprivation,GO:1900426,positive regulation of defense response to bacterium,21,4,1,0.041666666666666664,0.25
+GO:0009414,response to water deprivation,GO:1902290,positive regulation of defense response to oomycetes,21,3,1,0.043478260869565216,0.3333333333333333
+GO:0009414,response to water deprivation,GO:2000022,regulation of jasmonic acid mediated signaling pathway,21,6,0,0.0,0.0
+GO:0009414,response to water deprivation,GO:2000031,regulation of salicylic acid mediated signaling pathway,21,3,0,0.0,0.0
+GO:0009414,response to water deprivation,GO:2000070,regulation of response to water deprivation,21,3,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0009611,response to wounding,7,12,1,0.05555555555555555,0.14285714285714285
+GO:0009416,response to light stimulus,GO:0009615,response to virus,7,6,1,0.08333333333333333,0.16666666666666666
+GO:0009416,response to light stimulus,GO:0009617,response to bacterium,7,22,1,0.03571428571428571,0.14285714285714285
+GO:0009416,response to light stimulus,GO:0009620,response to fungus,7,10,1,0.0625,0.14285714285714285
+GO:0009416,response to light stimulus,GO:0009624,response to nematode,7,6,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0009625,response to insect,7,4,1,0.1,0.25
+GO:0009416,response to light stimulus,GO:0009626,plant-type hypersensitive response,7,7,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0009627,systemic acquired resistance,7,13,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0009651,response to salt stress,7,15,1,0.047619047619047616,0.14285714285714285
+GO:0009416,response to light stimulus,GO:0009682,induced systemic resistance,7,3,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0009737,response to abscisic acid,7,23,1,0.034482758620689655,0.14285714285714285
+GO:0009416,response to light stimulus,GO:0009751,response to salicylic acid,7,22,2,0.07407407407407407,0.2857142857142857
+GO:0009416,response to light stimulus,GO:0009753,response to jasmonic acid,7,11,1,0.058823529411764705,0.14285714285714285
+GO:0009416,response to light stimulus,GO:0010112,regulation of systemic acquired resistance,7,4,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0010120,camalexin biosynthetic process,7,4,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0010150,leaf senescence,7,11,2,0.125,0.2857142857142857
+GO:0009416,response to light stimulus,GO:0010193,response to ozone,7,3,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0010230,alternative respiration,7,3,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0031347,regulation of defense response,7,5,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0034605,cellular response to heat,7,5,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0042742,defense response to bacterium,7,24,2,0.06896551724137931,0.2857142857142857
+GO:0009416,response to light stimulus,GO:0050832,defense response to fungus,7,15,1,0.047619047619047616,0.14285714285714285
+GO:0009416,response to light stimulus,GO:0070370,cellular heat acclimation,7,3,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0071456,cellular response to hypoxia,7,18,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:0080136,priming of cellular response to stress,7,3,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:1900150,regulation of defense response to fungus,7,5,1,0.09090909090909091,0.2
+GO:0009416,response to light stimulus,GO:1900426,positive regulation of defense response to bacterium,7,4,1,0.1,0.25
+GO:0009416,response to light stimulus,GO:1902290,positive regulation of defense response to oomycetes,7,3,1,0.1111111111111111,0.3333333333333333
+GO:0009416,response to light stimulus,GO:2000022,regulation of jasmonic acid mediated signaling pathway,7,6,0,0.0,0.0
+GO:0009416,response to light stimulus,GO:2000031,regulation of salicylic acid mediated signaling pathway,7,3,1,0.1111111111111111,0.3333333333333333
+GO:0009416,response to light stimulus,GO:2000070,regulation of response to water deprivation,7,3,0,0.0,0.0
+GO:0009611,response to wounding,GO:0009615,response to virus,12,6,1,0.058823529411764705,0.16666666666666666
+GO:0009611,response to wounding,GO:0009617,response to bacterium,12,22,2,0.0625,0.16666666666666666
+GO:0009611,response to wounding,GO:0009620,response to fungus,12,10,2,0.1,0.2
+GO:0009611,response to wounding,GO:0009624,response to nematode,12,6,1,0.058823529411764705,0.16666666666666666
+GO:0009611,response to wounding,GO:0009625,response to insect,12,4,1,0.06666666666666667,0.25
+GO:0009611,response to wounding,GO:0009626,plant-type hypersensitive response,12,7,0,0.0,0.0
+GO:0009611,response to wounding,GO:0009627,systemic acquired resistance,12,13,0,0.0,0.0
+GO:0009611,response to wounding,GO:0009651,response to salt stress,12,15,2,0.08,0.16666666666666666
+GO:0009611,response to wounding,GO:0009682,induced systemic resistance,12,3,0,0.0,0.0
+GO:0009611,response to wounding,GO:0009737,response to abscisic acid,12,23,4,0.12903225806451613,0.3333333333333333
+GO:0009611,response to wounding,GO:0009751,response to salicylic acid,12,22,7,0.25925925925925924,0.5833333333333334
+GO:0009611,response to wounding,GO:0009753,response to jasmonic acid,12,11,6,0.35294117647058826,0.5454545454545454
+GO:0009611,response to wounding,GO:0010112,regulation of systemic acquired resistance,12,4,0,0.0,0.0
+GO:0009611,response to wounding,GO:0010120,camalexin biosynthetic process,12,4,0,0.0,0.0
+GO:0009611,response to wounding,GO:0010150,leaf senescence,12,11,1,0.045454545454545456,0.09090909090909091
+GO:0009611,response to wounding,GO:0010193,response to ozone,12,3,0,0.0,0.0
+GO:0009611,response to wounding,GO:0010230,alternative respiration,12,3,0,0.0,0.0
+GO:0009611,response to wounding,GO:0031347,regulation of defense response,12,5,2,0.13333333333333333,0.4
+GO:0009611,response to wounding,GO:0034605,cellular response to heat,12,5,1,0.0625,0.2
+GO:0009611,response to wounding,GO:0042742,defense response to bacterium,12,24,4,0.125,0.3333333333333333
+GO:0009611,response to wounding,GO:0050832,defense response to fungus,12,15,1,0.038461538461538464,0.08333333333333333
+GO:0009611,response to wounding,GO:0070370,cellular heat acclimation,12,3,0,0.0,0.0
+GO:0009611,response to wounding,GO:0071456,cellular response to hypoxia,12,18,3,0.1111111111111111,0.25
+GO:0009611,response to wounding,GO:0080136,priming of cellular response to stress,12,3,0,0.0,0.0
+GO:0009611,response to wounding,GO:1900150,regulation of defense response to fungus,12,5,0,0.0,0.0
+GO:0009611,response to wounding,GO:1900426,positive regulation of defense response to bacterium,12,4,0,0.0,0.0
+GO:0009611,response to wounding,GO:1902290,positive regulation of defense response to oomycetes,12,3,0,0.0,0.0
+GO:0009611,response to wounding,GO:2000022,regulation of jasmonic acid mediated signaling pathway,12,6,1,0.058823529411764705,0.16666666666666666
+GO:0009611,response to wounding,GO:2000031,regulation of salicylic acid mediated signaling pathway,12,3,0,0.0,0.0
+GO:0009611,response to wounding,GO:2000070,regulation of response to water deprivation,12,3,0,0.0,0.0
+GO:0009615,response to virus,GO:0009617,response to bacterium,6,22,3,0.12,0.5
+GO:0009615,response to virus,GO:0009620,response to fungus,6,10,1,0.06666666666666667,0.16666666666666666
+GO:0009615,response to virus,GO:0009624,response to nematode,6,6,0,0.0,0.0
+GO:0009615,response to virus,GO:0009625,response to insect,6,4,0,0.0,0.0
+GO:0009615,response to virus,GO:0009626,plant-type hypersensitive response,6,7,0,0.0,0.0
+GO:0009615,response to virus,GO:0009627,systemic acquired resistance,6,13,1,0.05555555555555555,0.16666666666666666
+GO:0009615,response to virus,GO:0009651,response to salt stress,6,15,0,0.0,0.0
+GO:0009615,response to virus,GO:0009682,induced systemic resistance,6,3,0,0.0,0.0
+GO:0009615,response to virus,GO:0009737,response to abscisic acid,6,23,0,0.0,0.0
+GO:0009615,response to virus,GO:0009751,response to salicylic acid,6,22,3,0.12,0.5
+GO:0009615,response to virus,GO:0009753,response to jasmonic acid,6,11,1,0.0625,0.16666666666666666
+GO:0009615,response to virus,GO:0010112,regulation of systemic acquired resistance,6,4,0,0.0,0.0
+GO:0009615,response to virus,GO:0010120,camalexin biosynthetic process,6,4,0,0.0,0.0
+GO:0009615,response to virus,GO:0010150,leaf senescence,6,11,1,0.0625,0.16666666666666666
+GO:0009615,response to virus,GO:0010193,response to ozone,6,3,0,0.0,0.0
+GO:0009615,response to virus,GO:0010230,alternative respiration,6,3,0,0.0,0.0
+GO:0009615,response to virus,GO:0031347,regulation of defense response,6,5,0,0.0,0.0
+GO:0009615,response to virus,GO:0034605,cellular response to heat,6,5,0,0.0,0.0
+GO:0009615,response to virus,GO:0042742,defense response to bacterium,6,24,1,0.034482758620689655,0.16666666666666666
+GO:0009615,response to virus,GO:0050832,defense response to fungus,6,15,1,0.05,0.16666666666666666
+GO:0009615,response to virus,GO:0070370,cellular heat acclimation,6,3,0,0.0,0.0
+GO:0009615,response to virus,GO:0071456,cellular response to hypoxia,6,18,0,0.0,0.0
+GO:0009615,response to virus,GO:0080136,priming of cellular response to stress,6,3,0,0.0,0.0
+GO:0009615,response to virus,GO:1900150,regulation of defense response to fungus,6,5,1,0.1,0.2
+GO:0009615,response to virus,GO:1900426,positive regulation of defense response to bacterium,6,4,1,0.1111111111111111,0.25
+GO:0009615,response to virus,GO:1902290,positive regulation of defense response to oomycetes,6,3,1,0.125,0.3333333333333333
+GO:0009615,response to virus,GO:2000022,regulation of jasmonic acid mediated signaling pathway,6,6,0,0.0,0.0
+GO:0009615,response to virus,GO:2000031,regulation of salicylic acid mediated signaling pathway,6,3,1,0.125,0.3333333333333333
+GO:0009615,response to virus,GO:2000070,regulation of response to water deprivation,6,3,0,0.0,0.0
+GO:0009617,response to bacterium,GO:0009620,response to fungus,22,10,7,0.28,0.7
+GO:0009617,response to bacterium,GO:0009624,response to nematode,22,6,0,0.0,0.0
+GO:0009617,response to bacterium,GO:0009625,response to insect,22,4,2,0.08333333333333333,0.5
+GO:0009617,response to bacterium,GO:0009626,plant-type hypersensitive response,22,7,2,0.07407407407407407,0.2857142857142857
+GO:0009617,response to bacterium,GO:0009627,systemic acquired resistance,22,13,1,0.029411764705882353,0.07692307692307693
+GO:0009617,response to bacterium,GO:0009651,response to salt stress,22,15,0,0.0,0.0
+GO:0009617,response to bacterium,GO:0009682,induced systemic resistance,22,3,1,0.041666666666666664,0.3333333333333333
+GO:0009617,response to bacterium,GO:0009737,response to abscisic acid,22,23,3,0.07142857142857142,0.13636363636363635
+GO:0009617,response to bacterium,GO:0009751,response to salicylic acid,22,22,8,0.2222222222222222,0.36363636363636365
+GO:0009617,response to bacterium,GO:0009753,response to jasmonic acid,22,11,2,0.06451612903225806,0.18181818181818182
+GO:0009617,response to bacterium,GO:0010112,regulation of systemic acquired resistance,22,4,3,0.13043478260869565,0.75
+GO:0009617,response to bacterium,GO:0010120,camalexin biosynthetic process,22,4,2,0.08333333333333333,0.5
+GO:0009617,response to bacterium,GO:0010150,leaf senescence,22,11,4,0.13793103448275862,0.36363636363636365
+GO:0009617,response to bacterium,GO:0010193,response to ozone,22,3,0,0.0,0.0
+GO:0009617,response to bacterium,GO:0010230,alternative respiration,22,3,0,0.0,0.0
+GO:0009617,response to bacterium,GO:0031347,regulation of defense response,22,5,1,0.038461538461538464,0.2
+GO:0009617,response to bacterium,GO:0034605,cellular response to heat,22,5,0,0.0,0.0
+GO:0009617,response to bacterium,GO:0042742,defense response to bacterium,22,24,7,0.1794871794871795,0.3181818181818182
+GO:0009617,response to bacterium,GO:0050832,defense response to fungus,22,15,2,0.05714285714285714,0.13333333333333333
+GO:0009617,response to bacterium,GO:0070370,cellular heat acclimation,22,3,0,0.0,0.0
+GO:0009617,response to bacterium,GO:0071456,cellular response to hypoxia,22,18,7,0.21212121212121213,0.3888888888888889
+GO:0009617,response to bacterium,GO:0080136,priming of cellular response to stress,22,3,0,0.0,0.0
+GO:0009617,response to bacterium,GO:1900150,regulation of defense response to fungus,22,5,3,0.125,0.6
+GO:0009617,response to bacterium,GO:1900426,positive regulation of defense response to bacterium,22,4,3,0.13043478260869565,0.75
+GO:0009617,response to bacterium,GO:1902290,positive regulation of defense response to oomycetes,22,3,3,0.13636363636363635,1.0
+GO:0009617,response to bacterium,GO:2000022,regulation of jasmonic acid mediated signaling pathway,22,6,2,0.07692307692307693,0.3333333333333333
+GO:0009617,response to bacterium,GO:2000031,regulation of salicylic acid mediated signaling pathway,22,3,2,0.08695652173913043,0.6666666666666666
+GO:0009617,response to bacterium,GO:2000070,regulation of response to water deprivation,22,3,2,0.08695652173913043,0.6666666666666666
+GO:0009620,response to fungus,GO:0009624,response to nematode,10,6,0,0.0,0.0
+GO:0009620,response to fungus,GO:0009625,response to insect,10,4,0,0.0,0.0
+GO:0009620,response to fungus,GO:0009626,plant-type hypersensitive response,10,7,0,0.0,0.0
+GO:0009620,response to fungus,GO:0009627,systemic acquired resistance,10,13,0,0.0,0.0
+GO:0009620,response to fungus,GO:0009651,response to salt stress,10,15,0,0.0,0.0
+GO:0009620,response to fungus,GO:0009682,induced systemic resistance,10,3,0,0.0,0.0
+GO:0009620,response to fungus,GO:0009737,response to abscisic acid,10,23,1,0.03125,0.1
+GO:0009620,response to fungus,GO:0009751,response to salicylic acid,10,22,5,0.18518518518518517,0.5
+GO:0009620,response to fungus,GO:0009753,response to jasmonic acid,10,11,3,0.16666666666666666,0.3
+GO:0009620,response to fungus,GO:0010112,regulation of systemic acquired resistance,10,4,1,0.07692307692307693,0.25
+GO:0009620,response to fungus,GO:0010120,camalexin biosynthetic process,10,4,0,0.0,0.0
+GO:0009620,response to fungus,GO:0010150,leaf senescence,10,11,3,0.16666666666666666,0.3
+GO:0009620,response to fungus,GO:0010193,response to ozone,10,3,0,0.0,0.0
+GO:0009620,response to fungus,GO:0010230,alternative respiration,10,3,0,0.0,0.0
+GO:0009620,response to fungus,GO:0031347,regulation of defense response,10,5,0,0.0,0.0
+GO:0009620,response to fungus,GO:0034605,cellular response to heat,10,5,0,0.0,0.0
+GO:0009620,response to fungus,GO:0042742,defense response to bacterium,10,24,2,0.0625,0.2
+GO:0009620,response to fungus,GO:0050832,defense response to fungus,10,15,0,0.0,0.0
+GO:0009620,response to fungus,GO:0070370,cellular heat acclimation,10,3,0,0.0,0.0
+GO:0009620,response to fungus,GO:0071456,cellular response to hypoxia,10,18,2,0.07692307692307693,0.2
+GO:0009620,response to fungus,GO:0080136,priming of cellular response to stress,10,3,0,0.0,0.0
+GO:0009620,response to fungus,GO:1900150,regulation of defense response to fungus,10,5,2,0.15384615384615385,0.4
+GO:0009620,response to fungus,GO:1900426,positive regulation of defense response to bacterium,10,4,1,0.07692307692307693,0.25
+GO:0009620,response to fungus,GO:1902290,positive regulation of defense response to oomycetes,10,3,2,0.18181818181818182,0.6666666666666666
+GO:0009620,response to fungus,GO:2000022,regulation of jasmonic acid mediated signaling pathway,10,6,0,0.0,0.0
+GO:0009620,response to fungus,GO:2000031,regulation of salicylic acid mediated signaling pathway,10,3,0,0.0,0.0
+GO:0009620,response to fungus,GO:2000070,regulation of response to water deprivation,10,3,0,0.0,0.0
+GO:0009624,response to nematode,GO:0009625,response to insect,6,4,1,0.1111111111111111,0.25
+GO:0009624,response to nematode,GO:0009626,plant-type hypersensitive response,6,7,0,0.0,0.0
+GO:0009624,response to nematode,GO:0009627,systemic acquired resistance,6,13,0,0.0,0.0
+GO:0009624,response to nematode,GO:0009651,response to salt stress,6,15,0,0.0,0.0
+GO:0009624,response to nematode,GO:0009682,induced systemic resistance,6,3,0,0.0,0.0
+GO:0009624,response to nematode,GO:0009737,response to abscisic acid,6,23,1,0.03571428571428571,0.16666666666666666
+GO:0009624,response to nematode,GO:0009751,response to salicylic acid,6,22,2,0.07692307692307693,0.3333333333333333
+GO:0009624,response to nematode,GO:0009753,response to jasmonic acid,6,11,0,0.0,0.0
+GO:0009624,response to nematode,GO:0010112,regulation of systemic acquired resistance,6,4,0,0.0,0.0
+GO:0009624,response to nematode,GO:0010120,camalexin biosynthetic process,6,4,0,0.0,0.0
+GO:0009624,response to nematode,GO:0010150,leaf senescence,6,11,0,0.0,0.0
+GO:0009624,response to nematode,GO:0010193,response to ozone,6,3,0,0.0,0.0
+GO:0009624,response to nematode,GO:0010230,alternative respiration,6,3,0,0.0,0.0
+GO:0009624,response to nematode,GO:0031347,regulation of defense response,6,5,0,0.0,0.0
+GO:0009624,response to nematode,GO:0034605,cellular response to heat,6,5,0,0.0,0.0
+GO:0009624,response to nematode,GO:0042742,defense response to bacterium,6,24,2,0.07142857142857142,0.3333333333333333
+GO:0009624,response to nematode,GO:0050832,defense response to fungus,6,15,1,0.05,0.16666666666666666
+GO:0009624,response to nematode,GO:0070370,cellular heat acclimation,6,3,0,0.0,0.0
+GO:0009624,response to nematode,GO:0071456,cellular response to hypoxia,6,18,0,0.0,0.0
+GO:0009624,response to nematode,GO:0080136,priming of cellular response to stress,6,3,1,0.125,0.3333333333333333
+GO:0009624,response to nematode,GO:1900150,regulation of defense response to fungus,6,5,0,0.0,0.0
+GO:0009624,response to nematode,GO:1900426,positive regulation of defense response to bacterium,6,4,0,0.0,0.0
+GO:0009624,response to nematode,GO:1902290,positive regulation of defense response to oomycetes,6,3,0,0.0,0.0
+GO:0009624,response to nematode,GO:2000022,regulation of jasmonic acid mediated signaling pathway,6,6,0,0.0,0.0
+GO:0009624,response to nematode,GO:2000031,regulation of salicylic acid mediated signaling pathway,6,3,0,0.0,0.0
+GO:0009624,response to nematode,GO:2000070,regulation of response to water deprivation,6,3,0,0.0,0.0
+GO:0009625,response to insect,GO:0009626,plant-type hypersensitive response,4,7,0,0.0,0.0
+GO:0009625,response to insect,GO:0009627,systemic acquired resistance,4,13,0,0.0,0.0
+GO:0009625,response to insect,GO:0009651,response to salt stress,4,15,0,0.0,0.0
+GO:0009625,response to insect,GO:0009682,induced systemic resistance,4,3,1,0.16666666666666666,0.3333333333333333
+GO:0009625,response to insect,GO:0009737,response to abscisic acid,4,23,2,0.08,0.5
+GO:0009625,response to insect,GO:0009751,response to salicylic acid,4,22,2,0.08333333333333333,0.5
+GO:0009625,response to insect,GO:0009753,response to jasmonic acid,4,11,1,0.07142857142857142,0.25
+GO:0009625,response to insect,GO:0010112,regulation of systemic acquired resistance,4,4,1,0.14285714285714285,0.25
+GO:0009625,response to insect,GO:0010120,camalexin biosynthetic process,4,4,2,0.3333333333333333,0.5
+GO:0009625,response to insect,GO:0010150,leaf senescence,4,11,2,0.15384615384615385,0.5
+GO:0009625,response to insect,GO:0010193,response to ozone,4,3,0,0.0,0.0
+GO:0009625,response to insect,GO:0010230,alternative respiration,4,3,0,0.0,0.0
+GO:0009625,response to insect,GO:0031347,regulation of defense response,4,5,1,0.125,0.25
+GO:0009625,response to insect,GO:0034605,cellular response to heat,4,5,0,0.0,0.0
+GO:0009625,response to insect,GO:0042742,defense response to bacterium,4,24,2,0.07692307692307693,0.5
+GO:0009625,response to insect,GO:0050832,defense response to fungus,4,15,2,0.11764705882352941,0.5
+GO:0009625,response to insect,GO:0070370,cellular heat acclimation,4,3,0,0.0,0.0
+GO:0009625,response to insect,GO:0071456,cellular response to hypoxia,4,18,1,0.047619047619047616,0.25
+GO:0009625,response to insect,GO:0080136,priming of cellular response to stress,4,3,0,0.0,0.0
+GO:0009625,response to insect,GO:1900150,regulation of defense response to fungus,4,5,0,0.0,0.0
+GO:0009625,response to insect,GO:1900426,positive regulation of defense response to bacterium,4,4,0,0.0,0.0
+GO:0009625,response to insect,GO:1902290,positive regulation of defense response to oomycetes,4,3,0,0.0,0.0
+GO:0009625,response to insect,GO:2000022,regulation of jasmonic acid mediated signaling pathway,4,6,1,0.1111111111111111,0.25
+GO:0009625,response to insect,GO:2000031,regulation of salicylic acid mediated signaling pathway,4,3,1,0.16666666666666666,0.3333333333333333
+GO:0009625,response to insect,GO:2000070,regulation of response to water deprivation,4,3,1,0.16666666666666666,0.3333333333333333
+GO:0009626,plant-type hypersensitive response,GO:0009627,systemic acquired resistance,7,13,1,0.05263157894736842,0.14285714285714285
+GO:0009626,plant-type hypersensitive response,GO:0009651,response to salt stress,7,15,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0009682,induced systemic resistance,7,3,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0009737,response to abscisic acid,7,23,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0009751,response to salicylic acid,7,22,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0009753,response to jasmonic acid,7,11,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0010112,regulation of systemic acquired resistance,7,4,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0010120,camalexin biosynthetic process,7,4,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0010150,leaf senescence,7,11,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0010193,response to ozone,7,3,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0010230,alternative respiration,7,3,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0031347,regulation of defense response,7,5,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0034605,cellular response to heat,7,5,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0042742,defense response to bacterium,7,24,4,0.14814814814814814,0.5714285714285714
+GO:0009626,plant-type hypersensitive response,GO:0050832,defense response to fungus,7,15,1,0.047619047619047616,0.14285714285714285
+GO:0009626,plant-type hypersensitive response,GO:0070370,cellular heat acclimation,7,3,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:0071456,cellular response to hypoxia,7,18,2,0.08695652173913043,0.2857142857142857
+GO:0009626,plant-type hypersensitive response,GO:0080136,priming of cellular response to stress,7,3,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:1900150,regulation of defense response to fungus,7,5,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:1900426,positive regulation of defense response to bacterium,7,4,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:1902290,positive regulation of defense response to oomycetes,7,3,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:2000022,regulation of jasmonic acid mediated signaling pathway,7,6,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:2000031,regulation of salicylic acid mediated signaling pathway,7,3,0,0.0,0.0
+GO:0009626,plant-type hypersensitive response,GO:2000070,regulation of response to water deprivation,7,3,0,0.0,0.0
+GO:0009627,systemic acquired resistance,GO:0009651,response to salt stress,13,15,1,0.037037037037037035,0.07692307692307693
+GO:0009627,systemic acquired resistance,GO:0009682,induced systemic resistance,13,3,1,0.06666666666666667,0.3333333333333333
+GO:0009627,systemic acquired resistance,GO:0009737,response to abscisic acid,13,23,1,0.02857142857142857,0.07692307692307693
+GO:0009627,systemic acquired resistance,GO:0009751,response to salicylic acid,13,22,1,0.029411764705882353,0.07692307692307693
+GO:0009627,systemic acquired resistance,GO:0009753,response to jasmonic acid,13,11,0,0.0,0.0
+GO:0009627,systemic acquired resistance,GO:0010112,regulation of systemic acquired resistance,13,4,0,0.0,0.0
+GO:0009627,systemic acquired resistance,GO:0010120,camalexin biosynthetic process,13,4,1,0.0625,0.25
+GO:0009627,systemic acquired resistance,GO:0010150,leaf senescence,13,11,2,0.09090909090909091,0.18181818181818182
+GO:0009627,systemic acquired resistance,GO:0010193,response to ozone,13,3,0,0.0,0.0
+GO:0009627,systemic acquired resistance,GO:0010230,alternative respiration,13,3,1,0.06666666666666667,0.3333333333333333
+GO:0009627,systemic acquired resistance,GO:0031347,regulation of defense response,13,5,0,0.0,0.0
+GO:0009627,systemic acquired resistance,GO:0034605,cellular response to heat,13,5,1,0.058823529411764705,0.2
+GO:0009627,systemic acquired resistance,GO:0042742,defense response to bacterium,13,24,4,0.12121212121212122,0.3076923076923077
+GO:0009627,systemic acquired resistance,GO:0050832,defense response to fungus,13,15,4,0.16666666666666666,0.3076923076923077
+GO:0009627,systemic acquired resistance,GO:0070370,cellular heat acclimation,13,3,1,0.06666666666666667,0.3333333333333333
+GO:0009627,systemic acquired resistance,GO:0071456,cellular response to hypoxia,13,18,1,0.03333333333333333,0.07692307692307693
+GO:0009627,systemic acquired resistance,GO:0080136,priming of cellular response to stress,13,3,1,0.06666666666666667,0.3333333333333333
+GO:0009627,systemic acquired resistance,GO:1900150,regulation of defense response to fungus,13,5,0,0.0,0.0
+GO:0009627,systemic acquired resistance,GO:1900426,positive regulation of defense response to bacterium,13,4,0,0.0,0.0
+GO:0009627,systemic acquired resistance,GO:1902290,positive regulation of defense response to oomycetes,13,3,0,0.0,0.0
+GO:0009627,systemic acquired resistance,GO:2000022,regulation of jasmonic acid mediated signaling pathway,13,6,0,0.0,0.0
+GO:0009627,systemic acquired resistance,GO:2000031,regulation of salicylic acid mediated signaling pathway,13,3,0,0.0,0.0
+GO:0009627,systemic acquired resistance,GO:2000070,regulation of response to water deprivation,13,3,0,0.0,0.0
+GO:0009651,response to salt stress,GO:0009682,induced systemic resistance,15,3,1,0.058823529411764705,0.3333333333333333
+GO:0009651,response to salt stress,GO:0009737,response to abscisic acid,15,23,7,0.22580645161290322,0.4666666666666667
+GO:0009651,response to salt stress,GO:0009751,response to salicylic acid,15,22,2,0.05714285714285714,0.13333333333333333
+GO:0009651,response to salt stress,GO:0009753,response to jasmonic acid,15,11,2,0.08333333333333333,0.18181818181818182
+GO:0009651,response to salt stress,GO:0010112,regulation of systemic acquired resistance,15,4,0,0.0,0.0
+GO:0009651,response to salt stress,GO:0010120,camalexin biosynthetic process,15,4,1,0.05555555555555555,0.25
+GO:0009651,response to salt stress,GO:0010150,leaf senescence,15,11,1,0.04,0.09090909090909091
+GO:0009651,response to salt stress,GO:0010193,response to ozone,15,3,1,0.058823529411764705,0.3333333333333333
+GO:0009651,response to salt stress,GO:0010230,alternative respiration,15,3,0,0.0,0.0
+GO:0009651,response to salt stress,GO:0031347,regulation of defense response,15,5,0,0.0,0.0
+GO:0009651,response to salt stress,GO:0034605,cellular response to heat,15,5,3,0.17647058823529413,0.6
+GO:0009651,response to salt stress,GO:0042742,defense response to bacterium,15,24,1,0.02631578947368421,0.06666666666666667
+GO:0009651,response to salt stress,GO:0050832,defense response to fungus,15,15,2,0.07142857142857142,0.13333333333333333
+GO:0009651,response to salt stress,GO:0070370,cellular heat acclimation,15,3,2,0.125,0.6666666666666666
+GO:0009651,response to salt stress,GO:0071456,cellular response to hypoxia,15,18,1,0.03125,0.06666666666666667
+GO:0009651,response to salt stress,GO:0080136,priming of cellular response to stress,15,3,0,0.0,0.0
+GO:0009651,response to salt stress,GO:1900150,regulation of defense response to fungus,15,5,0,0.0,0.0
+GO:0009651,response to salt stress,GO:1900426,positive regulation of defense response to bacterium,15,4,0,0.0,0.0
+GO:0009651,response to salt stress,GO:1902290,positive regulation of defense response to oomycetes,15,3,0,0.0,0.0
+GO:0009651,response to salt stress,GO:2000022,regulation of jasmonic acid mediated signaling pathway,15,6,0,0.0,0.0
+GO:0009651,response to salt stress,GO:2000031,regulation of salicylic acid mediated signaling pathway,15,3,0,0.0,0.0
+GO:0009651,response to salt stress,GO:2000070,regulation of response to water deprivation,15,3,0,0.0,0.0
+GO:0009682,induced systemic resistance,GO:0009737,response to abscisic acid,3,23,1,0.04,0.3333333333333333
+GO:0009682,induced systemic resistance,GO:0009751,response to salicylic acid,3,22,1,0.041666666666666664,0.3333333333333333
+GO:0009682,induced systemic resistance,GO:0009753,response to jasmonic acid,3,11,1,0.07692307692307693,0.3333333333333333
+GO:0009682,induced systemic resistance,GO:0010112,regulation of systemic acquired resistance,3,4,0,0.0,0.0
+GO:0009682,induced systemic resistance,GO:0010120,camalexin biosynthetic process,3,4,1,0.16666666666666666,0.3333333333333333
+GO:0009682,induced systemic resistance,GO:0010150,leaf senescence,3,11,1,0.07692307692307693,0.3333333333333333
+GO:0009682,induced systemic resistance,GO:0010193,response to ozone,3,3,0,0.0,0.0
+GO:0009682,induced systemic resistance,GO:0010230,alternative respiration,3,3,0,0.0,0.0
+GO:0009682,induced systemic resistance,GO:0031347,regulation of defense response,3,5,1,0.14285714285714285,0.3333333333333333
+GO:0009682,induced systemic resistance,GO:0034605,cellular response to heat,3,5,0,0.0,0.0
+GO:0009682,induced systemic resistance,GO:0042742,defense response to bacterium,3,24,1,0.038461538461538464,0.3333333333333333
+GO:0009682,induced systemic resistance,GO:0050832,defense response to fungus,3,15,3,0.2,1.0
+GO:0009682,induced systemic resistance,GO:0070370,cellular heat acclimation,3,3,0,0.0,0.0
+GO:0009682,induced systemic resistance,GO:0071456,cellular response to hypoxia,3,18,1,0.05,0.3333333333333333
+GO:0009682,induced systemic resistance,GO:0080136,priming of cellular response to stress,3,3,0,0.0,0.0
+GO:0009682,induced systemic resistance,GO:1900150,regulation of defense response to fungus,3,5,0,0.0,0.0
+GO:0009682,induced systemic resistance,GO:1900426,positive regulation of defense response to bacterium,3,4,0,0.0,0.0
+GO:0009682,induced systemic resistance,GO:1902290,positive regulation of defense response to oomycetes,3,3,0,0.0,0.0
+GO:0009682,induced systemic resistance,GO:2000022,regulation of jasmonic acid mediated signaling pathway,3,6,1,0.125,0.3333333333333333
+GO:0009682,induced systemic resistance,GO:2000031,regulation of salicylic acid mediated signaling pathway,3,3,1,0.2,0.3333333333333333
+GO:0009682,induced systemic resistance,GO:2000070,regulation of response to water deprivation,3,3,1,0.2,0.3333333333333333
+GO:0009737,response to abscisic acid,GO:0009751,response to salicylic acid,23,22,6,0.15384615384615385,0.2727272727272727
+GO:0009737,response to abscisic acid,GO:0009753,response to jasmonic acid,23,11,4,0.13333333333333333,0.36363636363636365
+GO:0009737,response to abscisic acid,GO:0010112,regulation of systemic acquired resistance,23,4,1,0.038461538461538464,0.25
+GO:0009737,response to abscisic acid,GO:0010120,camalexin biosynthetic process,23,4,1,0.038461538461538464,0.25
+GO:0009737,response to abscisic acid,GO:0010150,leaf senescence,23,11,4,0.13333333333333333,0.36363636363636365
+GO:0009737,response to abscisic acid,GO:0010193,response to ozone,23,3,1,0.04,0.3333333333333333
+GO:0009737,response to abscisic acid,GO:0010230,alternative respiration,23,3,0,0.0,0.0
+GO:0009737,response to abscisic acid,GO:0031347,regulation of defense response,23,5,0,0.0,0.0
+GO:0009737,response to abscisic acid,GO:0034605,cellular response to heat,23,5,1,0.037037037037037035,0.2
+GO:0009737,response to abscisic acid,GO:0042742,defense response to bacterium,23,24,1,0.021739130434782608,0.043478260869565216
+GO:0009737,response to abscisic acid,GO:0050832,defense response to fungus,23,15,3,0.08571428571428572,0.2
+GO:0009737,response to abscisic acid,GO:0070370,cellular heat acclimation,23,3,0,0.0,0.0
+GO:0009737,response to abscisic acid,GO:0071456,cellular response to hypoxia,23,18,3,0.07894736842105263,0.16666666666666666
+GO:0009737,response to abscisic acid,GO:0080136,priming of cellular response to stress,23,3,0,0.0,0.0
+GO:0009737,response to abscisic acid,GO:1900150,regulation of defense response to fungus,23,5,1,0.037037037037037035,0.2
+GO:0009737,response to abscisic acid,GO:1900426,positive regulation of defense response to bacterium,23,4,0,0.0,0.0
+GO:0009737,response to abscisic acid,GO:1902290,positive regulation of defense response to oomycetes,23,3,1,0.04,0.3333333333333333
+GO:0009737,response to abscisic acid,GO:2000022,regulation of jasmonic acid mediated signaling pathway,23,6,0,0.0,0.0
+GO:0009737,response to abscisic acid,GO:2000031,regulation of salicylic acid mediated signaling pathway,23,3,0,0.0,0.0
+GO:0009737,response to abscisic acid,GO:2000070,regulation of response to water deprivation,23,3,0,0.0,0.0
+GO:0009751,response to salicylic acid,GO:0009753,response to jasmonic acid,22,11,8,0.32,0.7272727272727273
+GO:0009751,response to salicylic acid,GO:0010112,regulation of systemic acquired resistance,22,4,0,0.0,0.0
+GO:0009751,response to salicylic acid,GO:0010120,camalexin biosynthetic process,22,4,1,0.04,0.25
+GO:0009751,response to salicylic acid,GO:0010150,leaf senescence,22,11,5,0.17857142857142858,0.45454545454545453
+GO:0009751,response to salicylic acid,GO:0010193,response to ozone,22,3,1,0.041666666666666664,0.3333333333333333
+GO:0009751,response to salicylic acid,GO:0010230,alternative respiration,22,3,0,0.0,0.0
+GO:0009751,response to salicylic acid,GO:0031347,regulation of defense response,22,5,3,0.125,0.6
+GO:0009751,response to salicylic acid,GO:0034605,cellular response to heat,22,5,1,0.038461538461538464,0.2
+GO:0009751,response to salicylic acid,GO:0042742,defense response to bacterium,22,24,10,0.2777777777777778,0.45454545454545453
+GO:0009751,response to salicylic acid,GO:0050832,defense response to fungus,22,15,6,0.1935483870967742,0.4
+GO:0009751,response to salicylic acid,GO:0070370,cellular heat acclimation,22,3,0,0.0,0.0
+GO:0009751,response to salicylic acid,GO:0071456,cellular response to hypoxia,22,18,5,0.14285714285714285,0.2777777777777778
+GO:0009751,response to salicylic acid,GO:0080136,priming of cellular response to stress,22,3,0,0.0,0.0
+GO:0009751,response to salicylic acid,GO:1900150,regulation of defense response to fungus,22,5,1,0.038461538461538464,0.2
+GO:0009751,response to salicylic acid,GO:1900426,positive regulation of defense response to bacterium,22,4,1,0.04,0.25
+GO:0009751,response to salicylic acid,GO:1902290,positive regulation of defense response to oomycetes,22,3,1,0.041666666666666664,0.3333333333333333
+GO:0009751,response to salicylic acid,GO:2000022,regulation of jasmonic acid mediated signaling pathway,22,6,3,0.12,0.5
+GO:0009751,response to salicylic acid,GO:2000031,regulation of salicylic acid mediated signaling pathway,22,3,3,0.13636363636363635,1.0
+GO:0009751,response to salicylic acid,GO:2000070,regulation of response to water deprivation,22,3,3,0.13636363636363635,1.0
+GO:0009753,response to jasmonic acid,GO:0010112,regulation of systemic acquired resistance,11,4,0,0.0,0.0
+GO:0009753,response to jasmonic acid,GO:0010120,camalexin biosynthetic process,11,4,1,0.07142857142857142,0.25
+GO:0009753,response to jasmonic acid,GO:0010150,leaf senescence,11,11,2,0.1,0.18181818181818182
+GO:0009753,response to jasmonic acid,GO:0010193,response to ozone,11,3,1,0.07692307692307693,0.3333333333333333
+GO:0009753,response to jasmonic acid,GO:0010230,alternative respiration,11,3,0,0.0,0.0
+GO:0009753,response to jasmonic acid,GO:0031347,regulation of defense response,11,5,2,0.14285714285714285,0.4
+GO:0009753,response to jasmonic acid,GO:0034605,cellular response to heat,11,5,1,0.06666666666666667,0.2
+GO:0009753,response to jasmonic acid,GO:0042742,defense response to bacterium,11,24,2,0.06060606060606061,0.18181818181818182
+GO:0009753,response to jasmonic acid,GO:0050832,defense response to fungus,11,15,1,0.04,0.09090909090909091
+GO:0009753,response to jasmonic acid,GO:0070370,cellular heat acclimation,11,3,0,0.0,0.0
+GO:0009753,response to jasmonic acid,GO:0071456,cellular response to hypoxia,11,18,1,0.03571428571428571,0.09090909090909091
+GO:0009753,response to jasmonic acid,GO:0080136,priming of cellular response to stress,11,3,0,0.0,0.0
+GO:0009753,response to jasmonic acid,GO:1900150,regulation of defense response to fungus,11,5,0,0.0,0.0
+GO:0009753,response to jasmonic acid,GO:1900426,positive regulation of defense response to bacterium,11,4,0,0.0,0.0
+GO:0009753,response to jasmonic acid,GO:1902290,positive regulation of defense response to oomycetes,11,3,0,0.0,0.0
+GO:0009753,response to jasmonic acid,GO:2000022,regulation of jasmonic acid mediated signaling pathway,11,6,2,0.13333333333333333,0.3333333333333333
+GO:0009753,response to jasmonic acid,GO:2000031,regulation of salicylic acid mediated signaling pathway,11,3,1,0.07692307692307693,0.3333333333333333
+GO:0009753,response to jasmonic acid,GO:2000070,regulation of response to water deprivation,11,3,1,0.07692307692307693,0.3333333333333333
+GO:0010112,regulation of systemic acquired resistance,GO:0010120,camalexin biosynthetic process,4,4,1,0.14285714285714285,0.25
+GO:0010112,regulation of systemic acquired resistance,GO:0010150,leaf senescence,4,11,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:0010193,response to ozone,4,3,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:0010230,alternative respiration,4,3,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:0031347,regulation of defense response,4,5,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:0034605,cellular response to heat,4,5,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:0042742,defense response to bacterium,4,24,3,0.12,0.75
+GO:0010112,regulation of systemic acquired resistance,GO:0050832,defense response to fungus,4,15,1,0.05555555555555555,0.25
+GO:0010112,regulation of systemic acquired resistance,GO:0070370,cellular heat acclimation,4,3,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:0071456,cellular response to hypoxia,4,18,1,0.047619047619047616,0.25
+GO:0010112,regulation of systemic acquired resistance,GO:0080136,priming of cellular response to stress,4,3,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:1900150,regulation of defense response to fungus,4,5,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:1900426,positive regulation of defense response to bacterium,4,4,1,0.14285714285714285,0.25
+GO:0010112,regulation of systemic acquired resistance,GO:1902290,positive regulation of defense response to oomycetes,4,3,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:2000022,regulation of jasmonic acid mediated signaling pathway,4,6,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:2000031,regulation of salicylic acid mediated signaling pathway,4,3,0,0.0,0.0
+GO:0010112,regulation of systemic acquired resistance,GO:2000070,regulation of response to water deprivation,4,3,0,0.0,0.0
+GO:0010120,camalexin biosynthetic process,GO:0010150,leaf senescence,4,11,1,0.07142857142857142,0.25
+GO:0010120,camalexin biosynthetic process,GO:0010193,response to ozone,4,3,0,0.0,0.0
+GO:0010120,camalexin biosynthetic process,GO:0010230,alternative respiration,4,3,0,0.0,0.0
+GO:0010120,camalexin biosynthetic process,GO:0031347,regulation of defense response,4,5,1,0.125,0.25
+GO:0010120,camalexin biosynthetic process,GO:0034605,cellular response to heat,4,5,1,0.125,0.25
+GO:0010120,camalexin biosynthetic process,GO:0042742,defense response to bacterium,4,24,2,0.07692307692307693,0.5
+GO:0010120,camalexin biosynthetic process,GO:0050832,defense response to fungus,4,15,3,0.1875,0.75
+GO:0010120,camalexin biosynthetic process,GO:0070370,cellular heat acclimation,4,3,1,0.16666666666666666,0.3333333333333333
+GO:0010120,camalexin biosynthetic process,GO:0071456,cellular response to hypoxia,4,18,1,0.047619047619047616,0.25
+GO:0010120,camalexin biosynthetic process,GO:0080136,priming of cellular response to stress,4,3,0,0.0,0.0
+GO:0010120,camalexin biosynthetic process,GO:1900150,regulation of defense response to fungus,4,5,0,0.0,0.0
+GO:0010120,camalexin biosynthetic process,GO:1900426,positive regulation of defense response to bacterium,4,4,0,0.0,0.0
+GO:0010120,camalexin biosynthetic process,GO:1902290,positive regulation of defense response to oomycetes,4,3,0,0.0,0.0
+GO:0010120,camalexin biosynthetic process,GO:2000022,regulation of jasmonic acid mediated signaling pathway,4,6,1,0.1111111111111111,0.25
+GO:0010120,camalexin biosynthetic process,GO:2000031,regulation of salicylic acid mediated signaling pathway,4,3,1,0.16666666666666666,0.3333333333333333
+GO:0010120,camalexin biosynthetic process,GO:2000070,regulation of response to water deprivation,4,3,1,0.16666666666666666,0.3333333333333333
+GO:0010150,leaf senescence,GO:0010193,response to ozone,11,3,0,0.0,0.0
+GO:0010150,leaf senescence,GO:0010230,alternative respiration,11,3,0,0.0,0.0
+GO:0010150,leaf senescence,GO:0031347,regulation of defense response,11,5,1,0.06666666666666667,0.2
+GO:0010150,leaf senescence,GO:0034605,cellular response to heat,11,5,0,0.0,0.0
+GO:0010150,leaf senescence,GO:0042742,defense response to bacterium,11,24,3,0.09375,0.2727272727272727
+GO:0010150,leaf senescence,GO:0050832,defense response to fungus,11,15,1,0.04,0.09090909090909091
+GO:0010150,leaf senescence,GO:0070370,cellular heat acclimation,11,3,0,0.0,0.0
+GO:0010150,leaf senescence,GO:0071456,cellular response to hypoxia,11,18,3,0.11538461538461539,0.2727272727272727
+GO:0010150,leaf senescence,GO:0080136,priming of cellular response to stress,11,3,1,0.07692307692307693,0.3333333333333333
+GO:0010150,leaf senescence,GO:1900150,regulation of defense response to fungus,11,5,0,0.0,0.0
+GO:0010150,leaf senescence,GO:1900426,positive regulation of defense response to bacterium,11,4,0,0.0,0.0
+GO:0010150,leaf senescence,GO:1902290,positive regulation of defense response to oomycetes,11,3,0,0.0,0.0
+GO:0010150,leaf senescence,GO:2000022,regulation of jasmonic acid mediated signaling pathway,11,6,1,0.0625,0.16666666666666666
+GO:0010150,leaf senescence,GO:2000031,regulation of salicylic acid mediated signaling pathway,11,3,1,0.07692307692307693,0.3333333333333333
+GO:0010150,leaf senescence,GO:2000070,regulation of response to water deprivation,11,3,1,0.07692307692307693,0.3333333333333333
+GO:0010193,response to ozone,GO:0010230,alternative respiration,3,3,0,0.0,0.0
+GO:0010193,response to ozone,GO:0031347,regulation of defense response,3,5,0,0.0,0.0
+GO:0010193,response to ozone,GO:0034605,cellular response to heat,3,5,0,0.0,0.0
+GO:0010193,response to ozone,GO:0042742,defense response to bacterium,3,24,0,0.0,0.0
+GO:0010193,response to ozone,GO:0050832,defense response to fungus,3,15,0,0.0,0.0
+GO:0010193,response to ozone,GO:0070370,cellular heat acclimation,3,3,0,0.0,0.0
+GO:0010193,response to ozone,GO:0071456,cellular response to hypoxia,3,18,1,0.05,0.3333333333333333
+GO:0010193,response to ozone,GO:0080136,priming of cellular response to stress,3,3,0,0.0,0.0
+GO:0010193,response to ozone,GO:1900150,regulation of defense response to fungus,3,5,0,0.0,0.0
+GO:0010193,response to ozone,GO:1900426,positive regulation of defense response to bacterium,3,4,0,0.0,0.0
+GO:0010193,response to ozone,GO:1902290,positive regulation of defense response to oomycetes,3,3,0,0.0,0.0
+GO:0010193,response to ozone,GO:2000022,regulation of jasmonic acid mediated signaling pathway,3,6,0,0.0,0.0
+GO:0010193,response to ozone,GO:2000031,regulation of salicylic acid mediated signaling pathway,3,3,0,0.0,0.0
+GO:0010193,response to ozone,GO:2000070,regulation of response to water deprivation,3,3,0,0.0,0.0
+GO:0010230,alternative respiration,GO:0031347,regulation of defense response,3,5,0,0.0,0.0
+GO:0010230,alternative respiration,GO:0034605,cellular response to heat,3,5,0,0.0,0.0
+GO:0010230,alternative respiration,GO:0042742,defense response to bacterium,3,24,0,0.0,0.0
+GO:0010230,alternative respiration,GO:0050832,defense response to fungus,3,15,0,0.0,0.0
+GO:0010230,alternative respiration,GO:0070370,cellular heat acclimation,3,3,0,0.0,0.0
+GO:0010230,alternative respiration,GO:0071456,cellular response to hypoxia,3,18,0,0.0,0.0
+GO:0010230,alternative respiration,GO:0080136,priming of cellular response to stress,3,3,0,0.0,0.0
+GO:0010230,alternative respiration,GO:1900150,regulation of defense response to fungus,3,5,0,0.0,0.0
+GO:0010230,alternative respiration,GO:1900426,positive regulation of defense response to bacterium,3,4,0,0.0,0.0
+GO:0010230,alternative respiration,GO:1902290,positive regulation of defense response to oomycetes,3,3,0,0.0,0.0
+GO:0010230,alternative respiration,GO:2000022,regulation of jasmonic acid mediated signaling pathway,3,6,0,0.0,0.0
+GO:0010230,alternative respiration,GO:2000031,regulation of salicylic acid mediated signaling pathway,3,3,0,0.0,0.0
+GO:0010230,alternative respiration,GO:2000070,regulation of response to water deprivation,3,3,0,0.0,0.0
+GO:0031347,regulation of defense response,GO:0034605,cellular response to heat,5,5,0,0.0,0.0
+GO:0031347,regulation of defense response,GO:0042742,defense response to bacterium,5,24,4,0.16,0.8
+GO:0031347,regulation of defense response,GO:0050832,defense response to fungus,5,15,3,0.17647058823529413,0.6
+GO:0031347,regulation of defense response,GO:0070370,cellular heat acclimation,5,3,0,0.0,0.0
+GO:0031347,regulation of defense response,GO:0071456,cellular response to hypoxia,5,18,1,0.045454545454545456,0.2
+GO:0031347,regulation of defense response,GO:0080136,priming of cellular response to stress,5,3,0,0.0,0.0
+GO:0031347,regulation of defense response,GO:1900150,regulation of defense response to fungus,5,5,0,0.0,0.0
+GO:0031347,regulation of defense response,GO:1900426,positive regulation of defense response to bacterium,5,4,0,0.0,0.0
+GO:0031347,regulation of defense response,GO:1902290,positive regulation of defense response to oomycetes,5,3,0,0.0,0.0
+GO:0031347,regulation of defense response,GO:2000022,regulation of jasmonic acid mediated signaling pathway,5,6,3,0.375,0.6
+GO:0031347,regulation of defense response,GO:2000031,regulation of salicylic acid mediated signaling pathway,5,3,2,0.3333333333333333,0.6666666666666666
+GO:0031347,regulation of defense response,GO:2000070,regulation of response to water deprivation,5,3,2,0.3333333333333333,0.6666666666666666
+GO:0034605,cellular response to heat,GO:0042742,defense response to bacterium,5,24,2,0.07407407407407407,0.4
+GO:0034605,cellular response to heat,GO:0050832,defense response to fungus,5,15,1,0.05263157894736842,0.2
+GO:0034605,cellular response to heat,GO:0070370,cellular heat acclimation,5,3,2,0.3333333333333333,0.6666666666666666
+GO:0034605,cellular response to heat,GO:0071456,cellular response to hypoxia,5,18,0,0.0,0.0
+GO:0034605,cellular response to heat,GO:0080136,priming of cellular response to stress,5,3,0,0.0,0.0
+GO:0034605,cellular response to heat,GO:1900150,regulation of defense response to fungus,5,5,0,0.0,0.0
+GO:0034605,cellular response to heat,GO:1900426,positive regulation of defense response to bacterium,5,4,0,0.0,0.0
+GO:0034605,cellular response to heat,GO:1902290,positive regulation of defense response to oomycetes,5,3,0,0.0,0.0
+GO:0034605,cellular response to heat,GO:2000022,regulation of jasmonic acid mediated signaling pathway,5,6,0,0.0,0.0
+GO:0034605,cellular response to heat,GO:2000031,regulation of salicylic acid mediated signaling pathway,5,3,0,0.0,0.0
+GO:0034605,cellular response to heat,GO:2000070,regulation of response to water deprivation,5,3,0,0.0,0.0
+GO:0042742,defense response to bacterium,GO:0050832,defense response to fungus,24,15,7,0.21875,0.4666666666666667
+GO:0042742,defense response to bacterium,GO:0070370,cellular heat acclimation,24,3,1,0.038461538461538464,0.3333333333333333
+GO:0042742,defense response to bacterium,GO:0071456,cellular response to hypoxia,24,18,6,0.16666666666666666,0.3333333333333333
+GO:0042742,defense response to bacterium,GO:0080136,priming of cellular response to stress,24,3,0,0.0,0.0
+GO:0042742,defense response to bacterium,GO:1900150,regulation of defense response to fungus,24,5,1,0.03571428571428571,0.2
+GO:0042742,defense response to bacterium,GO:1900426,positive regulation of defense response to bacterium,24,4,2,0.07692307692307693,0.5
+GO:0042742,defense response to bacterium,GO:1902290,positive regulation of defense response to oomycetes,24,3,1,0.038461538461538464,0.3333333333333333
+GO:0042742,defense response to bacterium,GO:2000022,regulation of jasmonic acid mediated signaling pathway,24,6,4,0.15384615384615385,0.6666666666666666
+GO:0042742,defense response to bacterium,GO:2000031,regulation of salicylic acid mediated signaling pathway,24,3,3,0.125,1.0
+GO:0042742,defense response to bacterium,GO:2000070,regulation of response to water deprivation,24,3,3,0.125,1.0
+GO:0050832,defense response to fungus,GO:0070370,cellular heat acclimation,15,3,1,0.058823529411764705,0.3333333333333333
+GO:0050832,defense response to fungus,GO:0071456,cellular response to hypoxia,15,18,2,0.06451612903225806,0.13333333333333333
+GO:0050832,defense response to fungus,GO:0080136,priming of cellular response to stress,15,3,0,0.0,0.0
+GO:0050832,defense response to fungus,GO:1900150,regulation of defense response to fungus,15,5,0,0.0,0.0
+GO:0050832,defense response to fungus,GO:1900426,positive regulation of defense response to bacterium,15,4,0,0.0,0.0
+GO:0050832,defense response to fungus,GO:1902290,positive regulation of defense response to oomycetes,15,3,0,0.0,0.0
+GO:0050832,defense response to fungus,GO:2000022,regulation of jasmonic acid mediated signaling pathway,15,6,2,0.10526315789473684,0.3333333333333333
+GO:0050832,defense response to fungus,GO:2000031,regulation of salicylic acid mediated signaling pathway,15,3,2,0.125,0.6666666666666666
+GO:0050832,defense response to fungus,GO:2000070,regulation of response to water deprivation,15,3,2,0.125,0.6666666666666666
+GO:0070370,cellular heat acclimation,GO:0071456,cellular response to hypoxia,3,18,0,0.0,0.0
+GO:0070370,cellular heat acclimation,GO:0080136,priming of cellular response to stress,3,3,0,0.0,0.0
+GO:0070370,cellular heat acclimation,GO:1900150,regulation of defense response to fungus,3,5,0,0.0,0.0
+GO:0070370,cellular heat acclimation,GO:1900426,positive regulation of defense response to bacterium,3,4,0,0.0,0.0
+GO:0070370,cellular heat acclimation,GO:1902290,positive regulation of defense response to oomycetes,3,3,0,0.0,0.0
+GO:0070370,cellular heat acclimation,GO:2000022,regulation of jasmonic acid mediated signaling pathway,3,6,0,0.0,0.0
+GO:0070370,cellular heat acclimation,GO:2000031,regulation of salicylic acid mediated signaling pathway,3,3,0,0.0,0.0
+GO:0070370,cellular heat acclimation,GO:2000070,regulation of response to water deprivation,3,3,0,0.0,0.0
+GO:0071456,cellular response to hypoxia,GO:0080136,priming of cellular response to stress,18,3,0,0.0,0.0
+GO:0071456,cellular response to hypoxia,GO:1900150,regulation of defense response to fungus,18,5,0,0.0,0.0
+GO:0071456,cellular response to hypoxia,GO:1900426,positive regulation of defense response to bacterium,18,4,0,0.0,0.0
+GO:0071456,cellular response to hypoxia,GO:1902290,positive regulation of defense response to oomycetes,18,3,0,0.0,0.0
+GO:0071456,cellular response to hypoxia,GO:2000022,regulation of jasmonic acid mediated signaling pathway,18,6,2,0.09090909090909091,0.3333333333333333
+GO:0071456,cellular response to hypoxia,GO:2000031,regulation of salicylic acid mediated signaling pathway,18,3,1,0.05,0.3333333333333333
+GO:0071456,cellular response to hypoxia,GO:2000070,regulation of response to water deprivation,18,3,2,0.10526315789473684,0.6666666666666666
+GO:0080136,priming of cellular response to stress,GO:1900150,regulation of defense response to fungus,3,5,0,0.0,0.0
+GO:0080136,priming of cellular response to stress,GO:1900426,positive regulation of defense response to bacterium,3,4,0,0.0,0.0
+GO:0080136,priming of cellular response to stress,GO:1902290,positive regulation of defense response to oomycetes,3,3,0,0.0,0.0
+GO:0080136,priming of cellular response to stress,GO:2000022,regulation of jasmonic acid mediated signaling pathway,3,6,0,0.0,0.0
+GO:0080136,priming of cellular response to stress,GO:2000031,regulation of salicylic acid mediated signaling pathway,3,3,0,0.0,0.0
+GO:0080136,priming of cellular response to stress,GO:2000070,regulation of response to water deprivation,3,3,0,0.0,0.0
+GO:1900150,regulation of defense response to fungus,GO:1900426,positive regulation of defense response to bacterium,5,4,2,0.2857142857142857,0.5
+GO:1900150,regulation of defense response to fungus,GO:1902290,positive regulation of defense response to oomycetes,5,3,3,0.6,1.0
+GO:1900150,regulation of defense response to fungus,GO:2000022,regulation of jasmonic acid mediated signaling pathway,5,6,2,0.2222222222222222,0.4
+GO:1900150,regulation of defense response to fungus,GO:2000031,regulation of salicylic acid mediated signaling pathway,5,3,1,0.14285714285714285,0.3333333333333333
+GO:1900150,regulation of defense response to fungus,GO:2000070,regulation of response to water deprivation,5,3,0,0.0,0.0
+GO:1900426,positive regulation of defense response to bacterium,GO:1902290,positive regulation of defense response to oomycetes,4,3,2,0.4,0.6666666666666666
+GO:1900426,positive regulation of defense response to bacterium,GO:2000022,regulation of jasmonic acid mediated signaling pathway,4,6,0,0.0,0.0
+GO:1900426,positive regulation of defense response to bacterium,GO:2000031,regulation of salicylic acid mediated signaling pathway,4,3,1,0.16666666666666666,0.3333333333333333
+GO:1900426,positive regulation of defense response to bacterium,GO:2000070,regulation of response to water deprivation,4,3,0,0.0,0.0
+GO:1902290,positive regulation of defense response to oomycetes,GO:2000022,regulation of jasmonic acid mediated signaling pathway,3,6,0,0.0,0.0
+GO:1902290,positive regulation of defense response to oomycetes,GO:2000031,regulation of salicylic acid mediated signaling pathway,3,3,1,0.2,0.3333333333333333
+GO:1902290,positive regulation of defense response to oomycetes,GO:2000070,regulation of response to water deprivation,3,3,0,0.0,0.0
+GO:2000022,regulation of jasmonic acid mediated signaling pathway,GO:2000031,regulation of salicylic acid mediated signaling pathway,6,3,2,0.2857142857142857,0.6666666666666666
+GO:2000022,regulation of jasmonic acid mediated signaling pathway,GO:2000070,regulation of response to water deprivation,6,3,3,0.5,1.0
+GO:2000031,regulation of salicylic acid mediated signaling pathway,GO:2000070,regulation of response to water deprivation,3,3,2,0.5,0.6666666666666666
